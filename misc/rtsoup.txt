@@ -1,0 +1,2546 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="fb: http://www.facebook.com/2008/fbml og: http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml">
+<head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+<script charset="UTF-8" crossorigin="anonymous" data-domain-script="7e979733-6841-4fce-9182-515fac69187f" integrity="sha384-WEHwEli88wqOiQd913F1utFZiwisa8XhCkbjLnbKEpFa/WbFcPKeGg7h4fdsv0Z/" src="https://cdn.cookielaw.org/consent/7e979733-6841-4fce-9182-515fac69187f/otSDKStub.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+                    function OptanonWrapper() { }
+                </script>
+<script ccpa-opt-out-geo="US" ccpa-opt-out-ids="dummy" ccpa-opt-out-lspa="false" charset="UTF-8" src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript">
+</script>
+<script src="/assets/pizza-pie/javascripts/bundles/roma/rt-common.js?single"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews - Rotten Tomatoes</title>
+<meta content="Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies &amp; TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets" name="description"/>
+<link href="https://www.rottentomatoes.com/critics/source/2834" rel="canonical"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/images/favicon.ico" rel="shortcut icon" sizes="76x76" type="image/x-icon">
+<meta content="" property="fb:app_id"/>
+<meta content="Rotten Tomatoes" property="og:site_name"/>
+<meta content="" property="og:title"/>
+<meta content="Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies &amp; TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets" property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.rottentomatoes.com/critics/source/2834" property="og:url"/>
+<meta content="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/RT_TwitterCard_2018.jpg" property="og:image"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/RT_TwitterCard_2018.jpg" name="twitter:image"/>
+<meta content="" name="twitter:title"/>
+<meta content="" name="twitter:text:title"/>
+<meta content="Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies &amp; TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets" name="twitter:description"/>
+<meta content="@rottentomatoes" name="twitter:site"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/manifest/manifest.json" rel="manifest"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-60.jpg" rel="apple-touch-icon"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-152.jpg" rel="apple-touch-icon" sizes="152x152"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-167.jpg" rel="apple-touch-icon" sizes="167x167"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-180.jpg" rel="apple-touch-icon" sizes="180x180"/>
+<!-- JSON+LD -->
+<meta content="VPPXtECgUUeuATBacnqnCm4ydGO99reF-xgNklSbNbc" name="google-site-verification">
+<meta content="034F16304017CA7DCF45D43850915323" name="msvalidate.01">
+<meta content="#FA320A" name="theme-color"/>
+<!-- DNS prefetch -->
+<meta content="on" http-equiv="x-dns-prefetch-control"/>
+<link href="//www.rottentomatoes.com" rel="dns-prefetch"/>
+<link href="//www.rottentomatoes.com" rel="preconnect"/>
+<!-- BEGIN: critical-->
+<style id="critical-path">*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}a,aside,body,button,div,footer,h1,h2,html,img,label,li,nav,p,section,span,sup,ul{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}aside,footer,nav,section{display:block}body{line-height:1}li,ul{list-style:none}a{text-decoration:none}img{vertical-align:middle}h1,h2{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}button{background-color:transparent}@font-face{font-family:rt-icon;src:url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.eot);src:url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.eot) format("embedded-opentype"),url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.woff2) format("woff2"),url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.woff) format("woff"),url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.ttf) format("truetype"),url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon) format("svg");font-weight:400;font-style:normal}:root{--fontFranklinGothic:"Franklin Gothic",-apple-system,BlinkMacSystemFont,"PT Sans",Arial,Sans-Serif;--fontNeusa:"Neusa","Impact","Helvetica Neue",Arial,Sans-Serif;--fontMonospace:"Courier New",Courier,monospace;--fontRtIcon:"rt-icon"}:root{--red:#FA320A;--redRGB:250,50,10;--redDark1:#A33E2A;--blue:#3976DC;--blueHover:#2A62C0;--gray:#757A84;--grayLight1:#F3F3F3;--grayLight2:#E9E9EA;--grayLight3:#DCDCE6;--grayLight4:#BCBDBE;--grayDark1:#505257;--grayDark2:#2A2C32;--orange:#FF7300;--yellow:#FFB600;--white:#FFFFFF;--black:#000000;--blackRGB:0,0,0;--yellowLegacy:#FFE400;--blueLightLegacy:#EBF3FE}:root{--borderRadius:6px}.rt-icon:before{display:inline-block;font-family:rt-icon;font-style:normal;font-variant:normal;font-weight:400;line-height:1em;margin-left:.2em;margin-right:.2em;position:relative;text-align:center;text-decoration:inherit;text-transform:none;width:1em;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}.rt-icon__mail:before{content:"\f11b"}.leaderboard_wrapper{height:50px;display:flex;justify-content:center;width:100%}@media (min-width:768px){.leaderboard_wrapper{padding:5px 0 5px;height:100px;min-height:100px}.sleaderboard_wrapper{display:flex;justify-content:center;align-items:center;background-color:var(--white);padding:10px;text-align:center}}html{--webkit-font-smoothing:antialiased;--moz-osx-font-smoothing:grayscale;font-size:1rem}body{background-color:var(--grayLight1);color:var(--grayDark2);font-family:var(--fontFranklinGothic);font-size:1rem;line-height:1.5;letter-spacing:.016em}p{font-family:var(--fontFranklinGothic);font-size:1rem;font-weight:400;line-height:1.25;margin-bottom:1.25rem}section{margin-bottom:2.5rem}.button,button{display:inline-block;height:40px;font-family:var(--fontFranklinGothic);font-size:.875rem;font-weight:500;line-height:2.85;padding:0 16px;text-align:center;text-overflow:ellipsis;text-transform:uppercase;vertical-align:middle;-webkit-line-clamp:2;white-space:nowrap;word-wrap:break-word;border:1px transparent;border-radius:4px;background-color:var(--blue);color:var(--white)}.button--link{height:auto;background-color:transparent;color:var(--blue);font-size:1rem;line-height:inherit;padding:0}.hide{display:none!important}.mobile-visible{display:block}.mobile-hidden{display:none}@media (min-width:768px){.mobile-hidden{display:block}.mobile-visible{display:none}}h1{font-family:var(--fontFranklinGothic);font-weight:500;font-size:1.625rem;letter-spacing:0;line-height:1.15;margin-bottom:1.15em}.h2,h2{font-family:var(--fontNeusa);font-weight:500;font-size:1.25rem;letter-spacing:0;line-height:1.2;padding-left:9px;text-transform:uppercase;margin-bottom:1em}.h2:before,h2:before{position:absolute;content:"";height:1.1em;border-left:3px solid var(--red);margin:-1px 0 0 -9px}.h3{font-family:var(--fontFranklinGothic);font-weight:500;font-size:1.25rem;line-height:1.2;letter-spacing:0;margin-bottom:1.25rem}.h4{font-family:var(--fontFranklinGothic);font-weight:600;line-height:1.17;letter-spacing:.01em}.h4{font-size:1.125rem;margin-bottom:1rem}img{max-width:100%}a{background-color:transparent;color:var(--blue);fill:var(--grayDark2);font-family:var(--fontFranklinGothic);font-size:inherit;font-weight:400;line-height:inherit;letter-spacing:inherit;text-decoration:none}label{font-family:var(--fontFranklinGothic);font-size:1rem;font-weight:500;letter-spacing:.31px;line-height:1.25}sup{vertical-align:super;font-size:.6rem}ul{padding:5px 0}ul ul{margin-top:0;margin-left:12px}li{margin-bottom:.4em;text-align:-webkit-match-parent}.list-inline{list-style:none}.list-inline>li{display:inline-block}.list-inline--separator>li{display:inline-block}.list-inline--separator>li:after{content:"|";display:inline-block;color:var(--grayDark1);margin-left:10px;margin-right:10px}.list-inline--separator>li:last-child:after{content:none}.rt-layout__body{line-height:1.25}.rt-layout__content{background-color:var(--white);overflow-x:hidden;padding-left:15px;padding-right:15px}.container{margin-right:auto;margin-left:auto}.layout{display:flex;justify-content:space-between}.layout__column{position:relative}.layout__column--main{flex:3;width:100%}.layout__column--sidebar{flex:1}.layout__column--sidebar-right{padding-left:0}@media (min-width:768px){.container{overflow-x:unset;width:1100px;padding-left:15px;padding-right:15px}.rt-layout__body{padding:0}.layout__column--sidebar-right{padding-left:25px}}[skeleton]{display:block;background-color:#eee;color:transparent}[skeleton] *{visibility:hidden}[skeleton=chip]{display:inline-block;border-radius:100px}[skeleton=panel]{border-radius:4px}[skeleton=transparent]{background-color:transparent}.unset{font-size:unset;font-weight:unset;line-height:unset;margin:unset;padding:unset;color:inherit}rt-header{height:55px}rt-header[skeleton]{display:block;background-color:var(--red)}rt-header .skip-link{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px}rt-header a{color:var(--grayDark2)}rt-header a[slot=logo] img{height:35px}rt-header li ul,rt-header ul{margin:0;padding:0}rt-header ul[slot=nav-links] a,rt-header ul[slot=nav-links] button{margin:0 15px;color:var(--white);font-family:var(--fontFranklinGothic);font-size:.875rem;font-weight:500;line-height:inherit}rt-header ul[slot=nav-links] li{margin-bottom:.4em}rt-header ul[slot=nav-links] .masthead-user-link{display:flex;align-items:center;color:var(--white);font-size:inherit;font-weight:500;margin-left:10px}rt-header ul[slot=nav-links] .masthead-user-link img{height:14px;margin-right:5px;vertical-align:text-bottom}rt-header ul[slot=nav-links] .masthead-user-link p{margin-bottom:0}rt-header ul[slot=nav-links] .masthead-user-link rt-icon{fill:var(--white)}rt-header ul[slot=nav-links] rt-header-user-info{position:absolute;top:30px;left:auto;right:0;z-index:103}rt-header ul[slot=nav-links] rt-header-user-info a{position:relative;margin:0;color:var(--grayDark2);font-size:1rem;font-weight:400;z-index:2}rt-header ul[slot=nav-links] rt-header-user-info .username{font-size:1rem;font-weight:500px;color:var(--grayDark2)}rt-header ul[slot=nav-links] rt-header-user-info .dropdown-link{color:var(--grayDark2);margin-bottom:.4em}rt-header ul[slot=nav-links] rt-header-user-info .rating-count-block,rt-header ul[slot=nav-links] rt-header-user-info .wts-count-block{font-size:.875rem;font-weight:400px;color:var(--gray)}rt-header ul[slot=nav-links] rt-header-user-info .wts-count-block rt-icon[icon=plus]{fill:var(--blue)}rt-header ul[slot=nav-links] rt-header-user-info .rating-count-block rt-icon[icon=star]{fill:var(--yellow)}rt-header rt-header-nav-item{padding:13px 15px;color:var(--white)}rt-header rt-header-nav-item>a[slot=link]{color:var(--white);font-family:var(--fontNeusa);letter-spacing:.9px;text-transform:uppercase;position:relative}rt-header rt-header-nav-item temporary-display{position:absolute;top:-20px;right:-15px}rt-header rt-header-nav-item temporary-display rt-badge{font-size:.75rem}rt-header rt-header-nav-item-dropdown[aria-expanded=false]{display:none}rt-header rt-header-nav-item-dropdown-list:last-child{margin-right:0}rt-header rt-header-nav-item-dropdown-list{margin-right:15px}rt-header rt-header-nav-item-dropdown-list ul{margin-bottom:15px}rt-header rt-header-nav-item-dropdown-list li{margin-bottom:.4em}rt-header rt-header-nav-item-dropdown-list a{display:flex;width:100%}rt-header rt-header-nav-item-dropdown-list a span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:215px}rt-header rt-header-nav-item-dropdown-list a.what-to-watch{align-items:center;gap:3px}rt-header rt-header-nav-item-dropdown-list p{display:flex}@media (min-width:768px){rt-header{height:100px}rt-header a[slot=logo]{margin:15px}rt-header a[slot=logo] img{height:50px}}search-algolia{flex:1;font-size:1rem;z-index:199;margin-left:15px}search-algolia[skeleton]{height:35px;border-radius:26px;margin-right:15px;width:100%}search-algolia-controls a,search-algolia-controls button,search-algolia-controls input{font-family:var(--fontFranklinGothic)}search-algolia-controls input{color:var(--white);border:1px solid var(--white)}search-algolia-controls a rt-icon,search-algolia-controls button rt-icon{fill:var(--white)}search-algolia-controls a{display:flex;width:fit-content;width:-moz-fit-content}search-algolia-controls button{display:flex;border-radius:0;background:0 0;height:auto;padding:0;line-height:0}search-algolia-controls button.search-clear{font-size:1.25rem}search-algolia-controls button.search-cancel{padding-right:15px;font-size:1rem}search-algolia-results-category{margin-bottom:40px;color:var(--grayDark2)}search-algolia-results-category[slot=none]{margin-bottom:0}search-algolia-results-category ul{padding:0}@media (min-width:768px){search-algolia{margin-right:15px}}bottom-nav{position:fixed;bottom:0;left:0;width:100%;height:84px;z-index:100}@media (min-width:768px){bottom-nav{display:none}}.trending-bar{background-color:rgba(var(--blackRGB),.6);color:var(--white);display:none;padding:4px 10px;font-size:.875rem;z-index:1;opacity:.9;position:relative;height:26px;margin-bottom:0}.trending-bar a{color:var(--white)}.trending-bar__header{color:var(--yellowLegacy);margin-bottom:0;padding-right:5px;white-space:nowrap;font-size:1rem;font-family:var(--fontNeusa);line-height:18px;letter-spacing:.055em;text-transform:uppercase}.trending-bar__list{display:flex;align-items:center;padding:0}.trending-bar__list li{margin-bottom:0}.trending-bar__link{margin-right:2px;padding:0 5px;font-weight:400;line-height:18px}.trending-list-wrap{display:flex;flex-wrap:nowrap;justify-content:space-between;align-items:flex-start}@media (min-width:768px){.trending-bar{display:block}}#trending_bar_ad{position:absolute;top:0;right:0}.auth-overlay__icon-button{display:flex;border:none;background:0 0;height:26px;font-size:1.625rem;padding:0;z-index:1}.auth-overlay__icon-button rt-icon{fill:var(--grayLight4)}.auth-overlay__icon-button--close{position:absolute;right:20px}.footer{background-color:var(--grayDark2);font-family:var(--fontFranklinGothic);font-size:.875rem;display:block;color:var(--white)}.footer__content-desktop-block{display:none}.footer__content-mobile-block{display:block;color:var(--white);font-size:.875rem;padding:15px 15px 69px;text-align:center;font-family:var(--fontFranklinGothic)}.footer__content-mobile-block a{font-size:.875rem}.footer__content-group-title{line-height:1.875rem}.footer__links-list{padding:0;margin-left:-5px;margin-bottom:30px}.footer__links-list-item{margin-bottom:0;padding:2px 5px;font-size:1rem}.footer__links-list-item a{color:var(--white);fill:var(--white);line-height:1.375rem}.footer__links-list-item a#ot-sdk-btn.ot-sdk-show-settings{color:var(--white);border:initial;height:initial;white-space:initial;padding:2px 5px;font-size:1rem;line-height:initial;background-color:initial}.footer__links-list-item a#ot-sdk-btn.ot-sdk-show-settings.mobile{font-size:.875rem}.footer__ccpa-icon{display:inline-block;width:30px;margin:0 0 2px 0}.footer__newsletter-block{display:block;margin:auto;width:100%}.footer__newsletter-icon{margin-right:9px}.footer__newsletter-btn{display:flex;justify-content:center;align-items:center;width:175px;margin:10px auto;font-weight:500;color:var(--white)}.footer__copyright{display:none}.footer__copyright .footer__links-list{font-size:.75rem}.footer__copyright a{font-size:1rem}.footer__copyright-legal{margin-bottom:0;font-size:1rem}.footer__copyright .footer__links-list{font-size:.75rem}@media (min-width:768px){.footer__content-desktop-block{display:flex;justify-content:space-between}.footer__content-mobile-block{display:none}.footer__content-group{padding:20px 0}.footer__content-group-title{margin-bottom:10px;font-size:1.125rem;text-transform:uppercase}.footer__newsletter-block{display:block;margin:0;text-align:center;width:250px}.footer__newsletter-copy{margin:10px 0;line-height:1.09rem}.footer__copyright{display:flex;flex-direction:column;align-items:center;padding-top:10px;padding-bottom:10px}.footer__copyright .version{color:var(--grayDark2);padding:0;font-size:.875rem}.footer__copyright .version:after{content:none;border-right:0;padding:0}.footer__copyright-legal{color:var(--gray);font-size:.875rem}}@media (min-width:768px){.critics__container{padding-top:15px}}.critics-nav{padding-bottom:20px;text-align:left;width:300px}.critics-nav-mobile{padding-bottom:unset;position:relative;margin:18px 0 30px 0}.sort-table>*+*{margin-top:20px}.sort-table__pagination{display:flex;justify-content:flex-end}.sort-table__pagination *+*{margin-left:10px}filter-chip{height:34px}filter-chip[skeleton]{padding-right:2.5em}</style>
+<!-- /END: critical-->
+<!-- @todo TOMATO-10097 - clean up redesignGlobalStyles-->
+<link as="style" href="/assets/pizza-pie/stylesheets/bundles/layouts/default_DEPRECATED.20194e30645.css" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/>
+<link as="style" href="/assets/pizza-pie/stylesheets/bundles/pages/critics/source.48da18cb8c9.css" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/>
+<script>
+        !function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+        </script>
+<script>
+            window.RottenTomatoes = {};
+            window.RTLocals = {};
+            window.nunjucksPrecompiled = {};
+        </script>
+<script>
+            var dataLayer = dataLayer || [];
+            dataLayer.push({"webVersion":"node","rtVersion":3.1,"loggedInStatus":"","customerId":"","pageName":"rt | critics | source page | undefined"});
+        </script>
+<script id="mps-page-integration">
+                window.mpscall = {"cag[score]":null,"cag[certified_fresh]":null,"cag[fresh_rotten]":null,"cag[rating]":null,"cag[release]":null,"cag[movieshow]":null,"cag[genre]":null,"cag[urlid]":null,"cat":"critics|critic_source_page","field[env]":"production","field[rtid]":null,"path":"/critics/source/2834","site":"rottentomatoes-web","title":"undefined Reviews & Previews","type":"webCriticSource"};
+                var mpsopts={'host':'mps.nbcuni.com', 'updatecorrelator':1};
+                var mps=mps||{};mps._ext=mps._ext||{};mps._adsheld=[];mps._queue=mps._queue||{};mps._queue.mpsloaded=mps._queue.mpsloaded||[];mps._queue.mpsinit=mps._queue.mpsinit||[];mps._queue.gptloaded=mps._queue.gptloaded||[];mps._queue.adload=mps._queue.adload||[];mps._queue.adclone=mps._queue.adclone||[];mps._queue.adview=mps._queue.adview||[];mps._queue.refreshads=mps._queue.refreshads||[];mps.__timer=Date.now||function(){return+new Date};mps.__intcode="v2";if(typeof mps.getAd!="function")mps.getAd=function(adunit){if(typeof adunit!="string")return false;var slotid="mps-getad-"+adunit.replace(/\W/g,"");if(!mps._ext||!mps._ext.loaded){mps._queue.gptloaded.push(function(){typeof mps._gptfirst=="function"&&mps._gptfirst(adunit,slotid);mps.insertAd("#"+slotid,adunit)});mps._adsheld.push(adunit)}return'<div id="'+slotid+'" class="mps-wrapper" data-mps-fill-slot="'+adunit+'"></div>'};(function(){head=document.head||document.getElementsByTagName("head")[0],mpsload=document.createElement("script");mpsload.src="//"+mpsopts.host+"/fetch/ext/load-"+mpscall.site+".js?nowrite=2";mpsload.id="mps-load";head.insertBefore(mpsload,head.firstChild)})();
+            </script>
+<script src="https://cdn.jwplayer.com/libraries/U8MHzHHR.js"></script>
+<script src="https://sb.scorecardresearch.com/c2/plugins/streamingtag_plugin_jwplayer.js"></script>
+</meta></meta></link></head>
+<body class="body no-touch js-mptd-layout">
+<user-activity-manager></user-activity-manager>
+<auth-initiate-manager></auth-initiate-manager>
+<auth-profile-manager></auth-profile-manager>
+<overlay-base class="" data-authinitiatemanager="overlayBase:close" data-pagepollsindexmanager="authOverlay:close" hidden="">
+<overlay-flows data-authinitiatemanager="overlayFlows" slot="content">
+<button aria-label="Close" class="auth-overlay__icon-button auth-overlay__icon-button--close" data-qa="close-overlay-btn" slot="close">
+<rt-icon icon="close" image=""></rt-icon>
+</button>
+</overlay-flows>
+</overlay-base>
+<notification-alert animate="" class="" data-authinitiatemanager="authSuccess" hidden="">
+<rt-icon icon="check-circled"></rt-icon>
+<span>Signed in</span>
+</notification-alert>
+<div data-authinitiatemanager="authTemplates" id="auth-templates">
+<template id="cognito-loading" slot="screens">
+<div>
+<loading-spinner id="cognito-auth-loading-spinner"></loading-spinner>
+<style>
+            #cognito-auth-loading-spinner {
+                font-size: 2rem;
+                transform: translate(calc(100% - 1em), 250px);
+                width: 50%;
+            }
+        </style>
+</div>
+</template>
+<template id="cognito-signup-form" slot="screens">
+<auth-signup-screen data-qa="auth-signup-screen">
+<h2 class="cognito-signup-form__header" data-qa="auth-signup-screen-title" slot="header">Log in or sign up for Rotten Tomatoes</h2>
+<rt-button class="cognito-signup-form__option" data-qa="auth-signup-screen-google-btn" slot="signup-option" theme="light" value="google">
+<div class="cognito-signup-form__option__container">
+<span class="cognito-signup-form__option__icon cognito-signup-form__option__icon--google"></span>
+<span class="cognito-signup-form__option__text">Continue with Google</span>
+</div>
+</rt-button>
+<rt-button class="cognito-signup-form__option" data-qa="auth-signup-screen-email-btn" slot="signup-option" theme="light" value="email">
+<div class="cognito-signup-form__option__container">
+<rt-icon class="cognito-signup-form__option__icon cognito-signup-form__option__icon--mail" icon="mail" image=""></rt-icon>
+<span class="cognito-signup-form__option__text">Continue with Email</span>
+</div>
+</rt-button>
+<input-label slot="email">
+<label class="auth-form__control__label" for="cognito-email-input" slot="label">Email</label>
+<input data-qa="auth-signup-screen-email" id="cognito-email-input" slot="input" type="email"/>
+</input-label>
+<div slot="info">
+<div class="no-password-container">
+<rt-badge>New</rt-badge>
+<span class="no-password">Where is the password field?</span>
+<tool-tip class="cognito-signup-form__tooltip" description="Rotten Tomatoes now offers passwordless authentication for all user accounts, making it easier for you to access your information. Simply enter the email address you previously used and hit continue to complete your log-in." nomobilefooter="" slot="tooltip" title="Where is the password field?">
+<button class="button--link" slot="tool-tip-btn">
+<rt-icon icon="question-circled" image=""></rt-icon>
+</button>
+</tool-tip>
+</div>
+</div>
+<button class="auth-form__button" data-qa="auth-signup-screen-continue-btn" slot="continue">Continue</button>
+<p class="cognito-signup-form-help" slot="help">
+<a data-qa="auth-signup-screen-reset-client-link" href="/reset-client">Trouble logging in?</a>
+</p>
+<p class="cognito-signup-form__terms-and-policies" slot="terms-and-policies">
+        By continuing, you agree to the <a data-qa="auth-signup-screen-privacy-policy-link" href="https://www.fandango.com/policies/privacy-policy" rel="noopener" target="_blank">Privacy Policy</a> and 
+        the <a data-qa="auth-signup-screen-terms-policies-link" href="https://www.fandango.com/policies/terms-and-policies" rel="noopener" target="_blank">Terms and Policies</a>, and to receive email from Rotten Tomatoes.
+    </p>
+</auth-signup-screen>
+</template>
+<template id="cognito-name-form" slot="screens">
+<auth-name-screen data-qa="auth-name-screen">
+<input-label data-qa="auth-name-screen-firstname-input" slot="firstName">
+<label class="auth-form__control__label" for="cognito-first-name-input" slot="label">First name (Required)</label>
+<input data-qa="auth-name-screen-first-name" id="cognito-first-name-input" slot="input"/>
+</input-label>
+<input-label data-qa="auth-name-screen-lastname-input" slot="lastName">
+<label class="auth-form__control__label" for="cognito-last-name-input" slot="label">Last name (Required)</label>
+<input data-qa="auth-name-screen-last-name" id="cognito-last-name-input" slot="input"/>
+</input-label>
+<rt-button class="auth-form__button" slot="createAccount">Create my account</rt-button>
+<p class="cognito-signup-form__terms-and-policies" slot="termsAndPolicies">
+      By creating an account, you agree to the
+      <a data-qa="auth-name-screen-privacy-policy-link" href="https://www.fandango.com/policies/privacy-policy" rel="noopener" target="_blank"> Privacy Policy </a>
+      and the<br/>
+<a data-qa="auth-name-screen-terms-policies-link" href="https://www.fandango.com/policies/terms-and-policies" rel="noopener" target="_blank"> Terms and Policies</a>
+      , and to receive email from Rotten Tomatoes.
+    </p>
+</auth-name-screen>
+</template>
+<template id="cognito-checkemail" slot="screens">
+<auth-checkemail-screen data-qa="auth-check-email-screen">
+<span class="cognito-check-email__icon--email" slot="email-icon"></span>
+<span class="cognito-check-email__icon--mobile" slot="mobile-icon"></span>
+<button class="text-button" data-qa="auth-check-email-screen-learn-more-link" slot="learn-more" tabindex="0">LEARN MORE</button>
+<a data-qa="auth-check-email-screen-help-link" href="/help_desk" slot="help" tabindex="0" target="_blank">HELP</a>
+</auth-checkemail-screen>
+</template>
+<template id="cognito-learn-more" slot="screens">
+<auth-learn-more-screen data-qa="auth-learn-more-screen">
+<button class="auth-overlay__icon-button auth-overlay__icon-button--back" slot="back">
+<rt-icon icon="left-arrow-stem" image=""></rt-icon>
+</button>
+</auth-learn-more-screen>
+</template>
+<template id="cognito-error" slot="screens">
+<auth-error-screen data-qa="auth-error-screen">
+<h2 class="cognito-error__heading" data-qa="auth-error-screen-title" slot="heading">
+<rt-icon class="cognito-error__icon--exclamation-circled" icon="exclamation-circled" image=""></rt-icon>
+<span class="js-cognito-error-heading-txt">Email not verified</span>
+</h2>
+<p class="js-cognito-error-message cognito-error__error-message" data-qa="auth-error-screen-message" slot="error-message">
+<!-- error message is set from auth-error-screen WC-->
+</p>
+<p class="js-cognito-error-code cognito-error__error-message" data-qa="auth-error-screen-code" slot="error-code">
+<!-- error code is set from auth-error-screen WC-->
+</p>
+<rt-button class="cognito-error__try-again-btn" slot="tryAgainBtn"><span class="cognito-error__btn-text" data-qa="auth-error-screen-try-again-btn">TRY AGAIN</span></rt-button>
+<rt-button class="cognito-error__cancel-btn" slot="cancelBtn" theme="light"><span class="cognito-error__btn-text" data-qa="auth-error-screen-cancel-btn">CANCEL</span></rt-button>
+</auth-error-screen>
+</template>
+<template id="cognito-opt-in" slot="screens">
+<auth-optin-screen data-qa="auth-opt-in-screen">
+<div slot="newsletterText">
+<h2 class="cognito-optin-form__header unset">Let's keep in touch!</h2>
+</div>
+<img alt="Rotten Tomatoes Newsletter" class="image" slot="image" src="https://images.fandango.com/cms/assets/97c33f00-313f-11ee-9aaf-6762c75465cf--newsletter.png"/>&gt;
+    <h2 class="subTitle unset" slot="subTitle">Sign up for the Rotten Tomatoes newsletter to get weekly updates on:</h2>
+<ul slot="options">
+<li class="icon-item">Upcoming Movies and TV shows</li>
+<li class="icon-item">Trivia &amp; Rotter Tomatoes Podcast</li>
+<li class="icon-item">Media News + More</li>
+</ul>
+<rt-button data-qa="auth-opt-in-screen-opt-in-btn" slot="optInButton">
+      Sign me up
+    </rt-button>
+<rt-button class="button--outline" data-qa="auth-opt-in-screen-opt-out-btn" slot="optOutButton">
+      No thanks
+    </rt-button>
+</auth-optin-screen>
+</template>
+<template id="cognito-opt-in-success" slot="screens">
+<auth-verify-screen>
+<rt-icon icon="check-circled" slot="icon"></rt-icon>
+<p class="h3" slot="status">OK, got it!</p>
+</auth-verify-screen>
+</template>
+</div>
+<div id="emptyPlaceholder"></div>
+<script async="" src="//assets.adobedtm.com/launch-EN549327edc13e414a9beb5d61bfd9aac6.min.js"></script>
+<div class="container rt-layout__body">
+<div id="header_and_leaderboard">
+<div class="leaderboard_wrapper" id="top_leaderboard_wrapper">
+<ad-unit adjustheight="" hidden="" unitdisplay="desktop" unittype="topbanner">
+<div slot="adInject"></div>
+</ad-unit>
+<ad-unit hidden="" unitdisplay="mobile" unittype="mbanner">
+<div slot="adInject"></div>
+</ad-unit>
+</div>
+</div>
+<rt-header-manager></rt-header-manager>
+<rt-header aria-label="navigation bar" class="navbar" data-qa="header-nav-bar" id="header-main" skeleton="panel">
+<a class="skip-link" href="#main-page-content" slot="skip-link">Skip to Main Content</a>
+<a class="logo-wrap" href="/" id="navbar" slot="logo">
+<img alt="Rotten Tomatoes" data-qa="header-logo" fetchpriority="high" src="https://images.fandango.com/cms/assets/2d5a3340-be84-11ed-9d20-83ee649e98bd--rt25-logo-mainnav-161x50.svg">
+<div class="hide">
+<ad-unit hidden="" unitdisplay="desktop,mobile" unittargeting="ploc=rtlogo;" unittype="logorepeat">
+<div slot="adInject"></div>
+</ad-unit>
+</div>
+</img></a>
+<search-algolia skeleton="transparent" slot="desktop-search">
+<search-algolia-controls slot="search-controls">
+<input aria-label="Search" class="search-text" data-qa="search-input" placeholder="Search movies, TV, actors, more.." slot="search-input" type="text">
+<button class="search-clear" data-qa="search-clear" slot="search-clear">
+<rt-icon icon="close" image=""></rt-icon>
+</button>
+<a aria-label="Submit search" class="search-submit" data-qa="search-submit" href="/search" slot="search-submit">
+<rt-icon icon="search" image=""></rt-icon>
+</a>
+<button class="search-cancel" data-qa="search-cancel" slot="search-cancel">
+        Cancel
+      </button>
+</input></search-algolia-controls>
+<search-algolia-results data-qa="search-results-overlay" slot="search-results">
+<search-algolia-results-category data-qa="search-results-category" slot="content">
+<h2 class="h2" data-qa="search-category-header" slot="title">Movies / TV</h2>
+<ul slot="results"></ul>
+</search-algolia-results-category>
+<search-algolia-results-category data-qa="search-results-category" slot="celebrity">
+<h2 class="h2" data-qa="search-category-header" slot="title">Celebrity</h2>
+<ul slot="results"></ul>
+</search-algolia-results-category>
+<search-algolia-results-category slot="none">
+<h2 class="h2" data-qa="search-no-results" slot="title">No Results Found</h2>
+</search-algolia-results-category>
+<a data-qa="search-view-all" href="/" slot="view-all">View All</a>
+</search-algolia-results>
+</search-algolia>
+<mobile-search-algolia data-qa="mobile-search-algolia" logoselector="#navbar .logo-wrap" navselector="#navbar" slot="mobile-search"></mobile-search-algolia>
+<ul slot="nav-links">
+<li><a data-qa="header:link-whats-tmeter" href="/about#whatisthetomatometer">What's the Tomatometer®?</a></li>
+<li><a data-qa="header:link-critics-home" href="/critics">Critics</a></li>
+<li data-rtheadermanager="loginLink">
+<ul>
+<li>
+<button class="js-cognito-signin button--link" data-authinitiatemanager="btnSignIn:click" data-qa="header:login-btn" id="masthead-show-login-btn">Login/signup</button>
+</li>
+</ul>
+</li>
+<li class="hide" data-qa="header:user" data-rtheadermanager="userItem:keydown,keyup,mouseenter">
+<a class="masthead-user-link" data-qa="user-profile-link" data-rtheadermanager="navUserlink:focus" rel="nofollow">
+<img data-qa="user-profile-thumb" data-rtheadermanager="navUserImg"/>
+<p data-qa="user-profile-name" data-rtheadermanager="navUserFirstName"></p>
+<rt-icon icon="down-dir" image=""></rt-icon>
+</a>
+<rt-header-user-info class="hide" data-rtheadermanager="userInfo:focusout,mouseleave" data-useractivitymanager="userInfo">
+<a data-qa="user-stats-profile-pic" href="" rel="nofollow" slot="imageExpanded" tabindex="-1">
+<img alt="" src="" width="40"/>
+</a>
+<a class="username" data-qa="user-stats-name" href="" rel="nofollow" slot="fullName"></a>
+<a class="wts-count-block" data-qa="user-stats-wts" href="" rel="nofollow" slot="wts">
+<rt-icon data-qa="user-stats-ratings-count" icon="plus"></rt-icon>
+<span class="count" data-qa="user-stats-wts-count"></span>
+           Wants to See
+        </a>
+<a class="rating-count-block" data-qa="user-stats-ratings" href="" rel="nofollow" slot="rating">
+<rt-icon data-qa="user-stats-ratings-count" icon="star"></rt-icon>
+<span class="count"></span>
+           Ratings
+        </a>
+<a class="dropdown-link" data-qa="user-stats-profile-link" href="" rel="nofollow" slot="profileLink">Profile</a>
+<a class="dropdown-link" data-qa="user-stats-account-link" href="/user/account" rel="nofollow" slot="accountLink">Account</a>
+<a class="dropdown-link" data-qa="user-stats-logout-link" data-rtheadermanager="logoutLink:click" href="#logout" slot="logoutLink">Log Out</a>
+</rt-header-user-info>
+</li>
+</ul>
+<rt-header-nav slot="nav-dropdowns">
+<rt-header-nav-item data-qa="masthead:movies-dvds" slot="movies">
+<a class="unset" data-qa="masthead:movies-dvds-link" href="/browse/movies_in_theaters" slot="link">Movies</a>
+<rt-header-nav-item-dropdown aria-expanded="false" slot="dropdown">
+<rt-header-nav-item-dropdown-list data-qa="header-movies-in-theaters" slot="column">
+<p class="h4" data-qa="movies-in-theaters-main-link" slot="title"><a class="unset" href="/browse/movies_in_theaters">Movies in theaters</a></p>
+<ul slot="links">
+<li data-qa="in-theaters-item">
+<a data-qa="opening-this-week-link" href="/browse/movies_in_theaters/sort:newest">Opening this week</a>
+</li>
+<li data-qa="in-theaters-item">
+<a data-qa="coming-soon-link" href="/browse/movies_coming_soon/">Coming soon to theaters</a>
+</li>
+<li data-qa="in-theaters-item">
+<a data-qa="certified-fresh-link" href="/browse/movies_in_theaters/critics:certified_fresh~sort:popular">Certified fresh movies</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-on-dvd-streaming" slot="column">
+<p class="h4" data-qa="dvd-streaming-main-link" slot="title"><a class="unset" href="/browse/movies_at_home">Movies at home</a></p>
+<ul slot="links">
+<li data-qa="dvd-streaming-item">
+<a data-qa="peacock-link" href="/browse/movies_at_home/affiliates:peacock">Peacock</a>
+</li>
+<li data-qa="dvd-streaming-item">
+<a data-qa="vudu-link" href="/browse/movies_at_home/affiliates:vudu">Vudu</a>
+</li>
+<li data-qa="dvd-streaming-item">
+<a data-qa="netflix-link" href="/browse/movies_at_home/affiliates:netflix">Netflix streaming</a>
+</li>
+<li data-qa="dvd-streaming-item">
+<a data-qa="apple-tv-link" href="/browse/movies_at_home/affiliates:apple_tv_us,apple_tv_plus">Apple TV</a>
+</li>
+<li data-qa="dvd-streaming-item">
+<a data-qa="amazon-link" href="/browse/movies_at_home/affiliates:amazon_prime">Amazon prime</a>
+</li>
+<li data-qa="dvd-streaming-item">
+<a data-qa="most-popular-link" href="/browse/movies_at_home/sort:popular">Most popular streaming movies</a>
+</li>
+<li data-qa="dvd-streaming-item">
+<a data-qa="certified-fresh-link" href="/browse/movies_at_home/critics:certified_fresh">Certified fresh movies</a>
+</li>
+<li data-qa="dvd-streaming-item">
+<a data-qa="browse-all-link" href="/browse/movies_at_home">Browse all</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-movies-more" slot="column">
+<p class="h4" slot="title">More</p>
+<ul slot="links">
+<li data-qa="what-to-watch-item">
+<a class="what-to-watch" data-qa="what-to-watch-link" href="https://editorial.rottentomatoes.com/what-to-watch/ ">What to Watch<rt-badge>New</rt-badge></a>
+</li>
+<li data-qa="top-movies-item">
+<a data-qa="top-movies-link" href="/top">Top movies</a>
+</li>
+<li data-qa="trailers-item">
+<a data-qa="trailers-link" href="/trailers">Trailers</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list cfp="" slot="column">
+<p class="h4" slot="title">Certified fresh picks</p>
+<ul class="cfp-wrap" data-curation="rt-nav-list-cf-picks" data-qa="header-certified-fresh-picks" slot="links">
+<li data-qa="cert-fresh-item">
+<a class="cfp-tile" data-qa="cert-fresh-link" href="/m/saw_x">
+<tile-dynamic data-qa="tile">
+<img alt="Saw X poster image" loading="lazy" slot="image" src="https://resizing.flixster.com/Nk800PQgJgPjHe5pSFK76DhPO1M=/206x305/v2/https://resizing.flixster.com/JerD2YiXljQannF1wK5SvwXYCsM=/fit-in/180x240/v2/https://resizing.flixster.com/9gNjWytmWz1aNNJS2bxHv0r6dDQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA4MmFmMGE4LWVkNzItNDY3YS05YTU5LWI0OGQ3OWNiNWI1OS5qcGc=">
+<div data-track="scores" slot="caption">
+<score-icon-critic-deprecated alignment="left" percentage="83" state="certified_fresh"></score-icon-critic-deprecated>
+<span class="p--small">Saw X</span>
+<span class="sr-only">Link to Saw X</span>
+</div>
+</img></tile-dynamic>
+</a>
+</li>
+<li data-qa="cert-fresh-item">
+<a class="cfp-tile" data-qa="cert-fresh-link" href="/m/the_royal_hotel">
+<tile-dynamic data-qa="tile">
+<img alt="The Royal Hotel poster image" loading="lazy" slot="image" src="https://resizing.flixster.com/5AUwa3GVk0LZ1MOmZhdvLeLH3eo=/206x305/v2/https://resizing.flixster.com/rlC2QNSgkOdrPfZQA4XNOIMLPqk=/fit-in/180x240/v2/https://resizing.flixster.com/J0Zs4cwTi9zuRqZbP97xPOogTkM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI0ZjZhOGNlLWIzNGUtNGY1Zi1iNzEzLWJlNWI5ZTYyYzM3Zi5qcGc=">
+<div data-track="scores" slot="caption">
+<score-icon-critic-deprecated alignment="left" percentage="95" state="certified_fresh"></score-icon-critic-deprecated>
+<span class="p--small">The Royal Hotel</span>
+<span class="sr-only">Link to The Royal Hotel</span>
+</div>
+</img></tile-dynamic>
+</a>
+</li>
+<li data-qa="cert-fresh-item">
+<a class="cfp-tile" data-qa="cert-fresh-link" href="/m/sitting_in_bars_with_cake">
+<tile-dynamic data-qa="tile">
+<img alt="Sitting in Bars with Cake poster image" loading="lazy" slot="image" src="https://resizing.flixster.com/G2EJxxh-2hn0jY2s4CYJyJCNhf8=/206x305/v2/https://resizing.flixster.com/5tTPFypwxCkQgnnmRH8DV6Y_EKc=/fit-in/180x240/v2/https://resizing.flixster.com/yC5Zoihr7dQpeq3Yt2aYlc-MB3M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UyYzk0YTA1LWQzNzgtNDFmOC05NmQ1LWZmNWJhY2I4ZjkwNi5qcGc="/>
+<div data-track="scores" slot="caption">
+<score-icon-critic-deprecated alignment="left" percentage="80" state="certified_fresh"></score-icon-critic-deprecated>
+<span class="p--small">Sitting in Bars with Cake</span>
+<span class="sr-only">Link to Sitting in Bars with Cake</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+</rt-header-nav-item-dropdown>
+</rt-header-nav-item>
+<rt-header-nav-item data-qa="masthead:tv" slot="tv">
+<a class="unset" data-qa="masthead:tv-link" href="/browse/tv_series_browse/sort:popular" slot="link">Tv shows</a>
+<rt-header-nav-item-dropdown aria-expanded="false" slot="dropdown">
+<rt-header-nav-item-dropdown-list data-qa="header-tv-list1" slot="column">
+<p class="h4" data-curation="rt-hp-text-list-new-tv-this-week" slot="title">
+              New TV Tonight
+            </p>
+<ul class="score-list-wrap" slot="links">
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/loki/s02">
+<score-icon-critic-deprecated alignment="left" percentage="82" state="certified_fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Loki: Season 2
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/our_flag_means_death/s02">
+<score-icon-critic-deprecated alignment="left" percentage="100" state="fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Our Flag Means Death: Season 2
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/lupin/s03">
+<score-icon-critic-deprecated alignment="left" percentage="100" state="fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Lupin: Season 3
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/chucky/s03">
+<score-icon-critic-deprecated alignment="left" percentage="" state=""></score-icon-critic-deprecated>
+<span>
+        
+            Chucky: Season 3
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/found/s01">
+<score-icon-critic-deprecated alignment="left" percentage="60" state="fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Found: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/the_spencer_sisters/s01">
+<score-icon-critic-deprecated alignment="left" percentage="" state=""></score-icon-critic-deprecated>
+<span>
+        
+            The Spencer Sisters: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/sullivans_crossing/s01">
+<score-icon-critic-deprecated alignment="left" percentage="" state=""></score-icon-critic-deprecated>
+<span>
+        
+            Sullivan's Crossing: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/transplant/s03">
+<score-icon-critic-deprecated alignment="left" percentage="" state=""></score-icon-critic-deprecated>
+<span>
+        
+            Transplant: Season 3
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/quantum_leap_2022/s02">
+<score-icon-critic-deprecated alignment="left" percentage="" state=""></score-icon-critic-deprecated>
+<span>
+        
+            Quantum Leap: Season 2
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/the_simpsons/s35">
+<score-icon-critic-deprecated alignment="left" percentage="" state=""></score-icon-critic-deprecated>
+<span>
+        
+            The Simpsons: Season 35
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/bobs_burgers/s14">
+<score-icon-critic-deprecated alignment="left" percentage="" state=""></score-icon-critic-deprecated>
+<span>
+        
+            Bob's Burgers: Season 14
+        
+    </span>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="tv-list1-view-all-link" href="/browse/tv_series_browse/sort:newest" slot="view-all-link">
+                View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list ]="" data-qa="header-tv-list2" slot="column">
+<p class="h4" data-curation="rt-hp-text-list-most-popular-tv-on-rt" slot="title">
+              Most Popular TV on RT
+            </p>
+<ul class="score-list-wrap" slot="links">
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/castlevania_nocturne/s01">
+<score-icon-critic-deprecated alignment="left" percentage="100" state="fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Castlevania: Nocturne: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/gen_v/s01">
+<score-icon-critic-deprecated alignment="left" percentage="95" state="certified_fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Gen V: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/sex_education/s04">
+<score-icon-critic-deprecated alignment="left" percentage="90" state="certified_fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Sex Education: Season 4
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/the_fall_of_the_house_of_usher/s01">
+<score-icon-critic-deprecated alignment="left" percentage="95" state="certified_fresh"></score-icon-critic-deprecated>
+<span>
+        
+            The Fall of the House of Usher: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/dear_child/s01">
+<score-icon-critic-deprecated alignment="left" percentage="100" state="fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Dear Child: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/the_continental/s01">
+<score-icon-critic-deprecated alignment="left" percentage="64" state="fresh"></score-icon-critic-deprecated>
+<span>
+        
+            The Continental: From the World of John Wick: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/star_wars_ahsoka/s01">
+<score-icon-critic-deprecated alignment="left" percentage="88" state="certified_fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Star Wars: Ahsoka: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/loki/s02">
+<score-icon-critic-deprecated alignment="left" percentage="82" state="certified_fresh"></score-icon-critic-deprecated>
+<span>
+        
+            Loki: Season 2
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/one_piece_2023/s01">
+<score-icon-critic-deprecated alignment="left" percentage="85" state="certified_fresh"></score-icon-critic-deprecated>
+<span>
+        
+            One Piece: Season 1
+        
+    </span>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="tv-list2-view-all-link" href="/browse/tv_series_browse/sort:popular?" slot="view-all-link">
+                View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-tv-more" slot="column">
+<p class="h4" slot="title">More</p>
+<ul slot="links">
+<li data-qa="what-to-watch-item-tv">
+<a class="what-to-watch" data-qa="what-to-watch-link-tv" href="https://editorial.rottentomatoes.com/what-to-watch/ ">
+                What to Watch<rt-badge>New</rt-badge>
+</a>
+</li>
+<li data-qa="tv-popular-item">
+<a data-qa="tv-popular-link" href="/browse/tv_series_browse/sort:popular">
+<span>Top TV Shows</span>
+</a>
+</li>
+<li data-qa="tv-cf-item">
+<a data-qa="tv-cf-link" href="/browse/tv_series_browse/critics:fresh">
+<span>Certified Fresh TV</span>
+</a>
+</li>
+<li>
+<a href="/browse/tv_series_browse/affiliates:peacock">
+<span>Peacock</span>
+</a>
+</li>
+<li>
+<a href="/browse/tv_series_browse/affiliates:vudu">
+<span>Vudu</span>
+</a>
+</li>
+<li>
+<a href="/browse/tv_series_browse/affiliates:netflix">
+<span>Netflix streaming</span>
+</a>
+</li>
+<li>
+<a href="/browse/tv_series_browse/affiliates:apple_tv_us,apple_tv_plus">
+<span>Apple TV</span>
+</a>
+</li>
+<li>
+<a href="/browse/tv_series_browse/affiliates:amazon_prime">
+<span>Amazon prime</span>
+</a>
+</li>
+<li>
+<a href="/browse/tv_series_browse/sort:popular">
+<span>Most popular TV</span>
+</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list cfp="" data-qa="header-certified-fresh-pick" slot="column">
+<p class="h4" slot="title">
+              Certified fresh pick
+            </p>
+<ul class="cfp-wrap" data-curation="rt-nav-list-cf-picks" slot="links">
+<li>
+<a class="cfp-tile" data-qa="cert-fresh-link" href="/tv/loki/s02">
+<tile-dynamic data-qa="tile">
+<img alt="Loki: Season 2 poster image" loading="lazy" slot="image" src="https://resizing.flixster.com/-IX7NXuryitcje-ZBRKl298P-g0=/206x305/v2/https://resizing.flixster.com/GuYczQkssRiXvcjPeGy7tDMPSFk=/fit-in/180x240/v2/https://resizing.flixster.com/_bfhe4PWPeyvX1XJe4LM_SJHG8k=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMTVmMDViYjktN2ZiNS00OThhLWFmNjEtOTFiZWUyZWQ3NWU0LmpwZw=="/>
+<div data-track="scores" slot="caption">
+<score-icon-critic-deprecated alignment="left" percentage="82" state="certified_fresh"></score-icon-critic-deprecated>
+<span class="p--small">Loki: Season 2</span>
+<span class="sr-only">Link to Loki: Season 2</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+</rt-header-nav-item-dropdown>
+</rt-header-nav-item>
+<rt-header-nav-item slot="trivia">
+<a class="unset" data-qa="masthead:trivia-link" href="https://rottentomatoes.com/daily" slot="link" target="_blank">
+          Movie Trivia
+          <temporary-display element="#triviaLink" event="click" key="trivia" slot="temporary-display">
+<rt-badge hidden="">New</rt-badge>
+</temporary-display>
+</a>
+</rt-header-nav-item>
+<rt-header-nav-item data-qa="masthead:news" slot="news">
+<a class="unset" data-qa="masthead:news-link" href="https://editorial.rottentomatoes.com/" slot="link">News</a>
+<rt-header-nav-item-dropdown aria-expanded="false" slot="dropdown">
+<rt-header-nav-item-dropdown-list data-qa="header-news-columns" slot="column">
+<p class="h4" slot="title">Columns</p>
+<ul slot="links">
+<li data-qa="column-item">
+<a data-pageheader="All-Time Lists" data-qa="column-link" href="https://editorial.rottentomatoes.com/all-time-lists/">
+                All-Time Lists
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Binge Guide" data-qa="column-link" href="https://editorial.rottentomatoes.com/binge-guide/">
+                Binge Guide
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Comics on TV" data-qa="column-link" href="https://editorial.rottentomatoes.com/comics-on-tv/">
+                Comics on TV
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Countdown" data-qa="column-link" href="https://editorial.rottentomatoes.com/countdown/">
+                Countdown
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Five Favorite Films" data-qa="column-link" href="https://editorial.rottentomatoes.com/five-favorite-films/">
+                Five Favorite Films
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Video Interviews" data-qa="column-link" href="https://editorial.rottentomatoes.com/video-interviews/">
+                Video Interviews
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Weekend Box Office" data-qa="column-link" href="https://editorial.rottentomatoes.com/weekend-box-office/">Weekend Box Office
+            </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Weekly Ketchup" data-qa="column-link" href="https://editorial.rottentomatoes.com/weekly-ketchup/">
+                Weekly Ketchup
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="What to Watch" data-qa="column-link" href="https://editorial.rottentomatoes.com/what-to-watch/">
+                What to Watch
+              </a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-news-guides" slot="column">
+<p class="h4" slot="title">Guides</p>
+<ul class="news-wrap" slot="links">
+<li data-qa="guides-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/guide/best-superhero-movies-of-all-time/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<img alt="The 89 Best Superhero Movies of All Time, Ranked by Tomatometer poster image" loading="lazy" slot="image" src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/06/17094054/600BlueBeetle5.jpg"/>
+<div slot="caption">
+<p>The 89 Best Superhero Movies of All Time, Ranked by Tomatometer</p>
+<span class="sr-only">Link to The 89 Best Superhero Movies of All Time, Ranked by Tomatometer</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+<li data-qa="guides-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/guide/all-jack-black-movies-ranked/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<img alt="All Jack Black Movies Ranked poster image" loading="lazy" slot="image" src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2020/08/03112024/600SchoolOfRock.jpg"/>
+<div slot="caption">
+<p>All Jack Black Movies Ranked</p>
+<span class="sr-only">Link to All Jack Black Movies Ranked</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="guides-view-all-link" href="https://editorial.rottentomatoes.com/countdown/" slot="view-all-link">
+              View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-news-hubs" slot="column">
+<p class="h4" slot="title">Hubs</p>
+<ul class="news-wrap" slot="links">
+<li data-qa="hubs-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/rt-hub/what-to-watch/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<img alt="What to Watch: In Theaters and On Streaming poster image" loading="lazy" slot="image" src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/05/04130548/RT_WTW_Generic_2023_Thumbnail_600x314_021623.jpg"/>
+<div slot="caption">
+<p>What to Watch: In Theaters and On Streaming</p>
+<span class="sr-only">Link to What to Watch: In Theaters and On Streaming</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+<li data-qa="hubs-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/rt-hub/hispanic-heritage/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<img alt="Celebrating Hispanic Heritage poster image" loading="lazy" slot="image" src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2022/09/07181530/RT_HH2023_Hub_600x314_090723.jpg"/>
+<div slot="caption">
+<p>Celebrating Hispanic Heritage</p>
+<span class="sr-only">Link to Celebrating Hispanic Heritage</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="hubs-view-all-link" href="https://editorial.rottentomatoes.com/rt-hubs/" slot="view-all-link">
+              View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-news-rt-news" slot="column">
+<p class="h4" slot="title">RT News</p>
+<ul class="news-wrap" slot="links">
+<li data-qa="rt-news-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/article/fang-off-tv-vampire-bracket/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<img alt="The Ultimate TV Fang-Off: Vote for the Best Vampire poster image" loading="lazy" slot="image" src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/10/02193854/UltimateTVFang-Off_600x314.jpg"/>
+<div slot="caption">
+<p>The Ultimate TV Fang-Off: Vote for the Best Vampire</p>
+<span class="sr-only">Link to The Ultimate TV Fang-Off: Vote for the Best Vampire</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+<li data-qa="rt-news-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/article/how-good-are-the-saw-movies-when-a-saw-is-actually-involved/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<img alt="How Good Are the &lt;em&gt;Saw&lt;/em&gt; Movies When a Saw Is Actually Involved? poster image" loading="lazy" slot="image" src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2017/10/03160546/Saw_Franchise_by_the_Numbers-Rep.jpg"/>
+<div slot="caption">
+<p>How Good Are the <em>Saw</em> Movies When a Saw Is Actually Involved?</p>
+<span class="sr-only">Link to How Good Are the <em>Saw</em> Movies When a Saw Is Actually Involved?</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="rt-news-view-all-link" href="https://editorial.rottentomatoes.com/news/" slot="view-all-link">
+              View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+</rt-header-nav-item-dropdown>
+</rt-header-nav-item>
+<rt-header-nav-item slot="showtimes">
+<a class="unset" data-qa="masthead:tickets-showtimes-link" href="https://www.fandango.com/movies-in-theaters" rel="noopener" slot="link" target="_blank">
+        Showtimes
+      </a>
+</rt-header-nav-item>
+</rt-header-nav>
+</rt-header>
+<section class="trending-bar">
+<ad-unit hidden="" id="trending_bar_ad" unitdisplay="desktop" unittype="trendinggraphic">
+<div slot="adInject"></div>
+</ad-unit>
+<div class="trending-list-wrap" data-qa="trending-bar" id="trending-bar-start">
+<ul class="list-inline trending-bar__list" data-curation="rt-nav-trending" data-qa="trending-bar-list">
+<li class="trending-bar__header">Trending on RT</li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://editorial.rottentomatoes.com/article/latest-tomatometer-scores/"> New TM Scores </a></li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://www.rottentomatoes.com/tv/loki/s02"> Loki  </a></li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://www.rottentomatoes.com/m/the_creator_2023"> The Creator  </a></li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://www.rottentomatoes.com/m/saw_x"> Saw X </a></li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://www.rottentomatoes.com/m/killers_of_the_flower_moon"> Killers of the Flower Moon </a></li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://www.rottentomatoes.com/m/the_exorcist_believer"> The Exorcist: Believer </a></li>
+</ul>
+<div class="trending-bar__social" data-qa="trending-bar-social-list" style="width: 135px;">
+<social-media-icons size="14" theme="light"></social-media-icons>
+</div>
+</div>
+</section>
+<main class="container rt-layout__content" id="main_container">
+<bottom-nav data-discoverygridsmanager="bottomNavComponent" data-qa="bottom-nav">
+<a slot="template">
+<bottom-nav-item></bottom-nav-item>
+</a>
+</bottom-nav>
+<div id="main-page-content">
+<!-- salt=8375902834024 -->
+<critics-nav-mobile-manager></critics-nav-mobile-manager>
+<section class="dropdown__container critics-nav-mobile mobile-visible">
+<rt-button data-criticsnavmobilemanager="dropdown:click" data-qa="critics-nav-mobile" fontsize="1rem" theme="light">
+<span class="btn-text">Publications list</span>
+<rt-icon icon="down-dir"></rt-icon>
+</rt-button>
+<dropdown-menu data-criticsnavmobilemanager="dropdownMenu" data-qa="critics-nav-dropdown" hidden="" name="listTypeDesktop" value="Publications list">
+<a href="/critics" slot="option">
+<dropdown-option value="Tomatometer-approved critics">
+                        Tomatometer-approved critics
+                        
+                    </dropdown-option>
+</a>
+<a href="/critics/top_critics" slot="option">
+<dropdown-option value="Top critics">
+                        Top critics
+                        
+                    </dropdown-option>
+</a>
+<a href="/critics/authors" slot="option">
+<dropdown-option value="Critics list">
+                        Critics list
+                        
+                    </dropdown-option>
+</a>
+<a href="/critics/sources" slot="option">
+<dropdown-option value="Publications list">
+                        Publications list
+                        
+                    </dropdown-option>
+</a>
+<a href="/critics/criteria" slot="option">
+<dropdown-option value="Critic application &amp; criteria">
+                        Critic application &amp; criteria
+                        
+                    </dropdown-option>
+</a>
+<a href="https://editorial.rottentomatoes.com/critics-corner/" slot="option">
+<dropdown-option value="Critic resources">
+                        Critic resources
+                        
+                            <span aria-hidden="true" class="new-badge">New</span>
+</dropdown-option>
+</a>
+<a href="/critics/critics_groups" slot="option">
+<dropdown-option value="Groups &amp; associations">
+                        Groups &amp; associations
+                        
+                    </dropdown-option>
+</a>
+<a href="/critics/archives" slot="option">
+<dropdown-option value="RT Archives">
+                        RT Archives
+                        
+                    </dropdown-option>
+</a>
+</dropdown-menu>
+</section>
+<div class="layout critics__container critics-source">
+<div class="layout__column layout__column--main">
+<h1 data-qa="publication-name-title">The Ringer</h1>
+<div>
+<p>Tomatometer-approved publication.</p>
+<critics-source-table-manager>
+<script id="reviews-json" type="application/json">{"api":"/napi/critics/source/2834/movies","pageInfo":{"endCursor":"MQ==","hasNextPage":true,"hasPreviousPage":false},"hasReviews":true,"reviews":[{"authorName":"Miles Surrey","authorUrl":"/critics/miles-surrey/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":81,"quote":"The tense thriller that put its director on the map...\n","publicationReviewUrl":"https://www.theringer.com/movies/2023/9/20/23880797/denis-villeneuve-prisoners-10th-anniversary-dune-part-two-delay","date":"Sep 29, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/bc5a9dec-fe7f-39cb-a445-b6713f143949","mediaInfo":"2013","mediaTitle":"Prisoners","mediaUrl":"/m/prisoners_2013"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":95,"quote":"Just like the final words of Sofia Coppola’s film, the best parts of the movie are left indecipherable...","publicationReviewUrl":"https://www.theringer.com/movies/2023/9/26/23889821/lost-in-translation-review-anniversary-sofia-coppola-scarlett-johansson-bill-murray","date":"Sep 29, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/66f676e5-1142-3db3-a3a0-ca5e6c7c6af9","mediaInfo":"2003","mediaTitle":"Lost in Translation","mediaUrl":"/m/lost_in_translation"},{"authorName":"Miles Surrey","authorUrl":"/critics/miles-surrey/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":68,"quote":"Gareth Edwards is more accomplished at world-building and orchestrating chaos than he is at developing characters, but the way the movie was made could be a game changer throughout Hollywood...","publicationReviewUrl":"https://www.theringer.com/movies/2023/9/29/23894998/the-creator-movie-review-gareth-edwards-john-david-washington","date":"Sep 29, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/7550c7be-4166-3c4c-a2dc-03a223aa3b29","mediaInfo":"2023","mediaTitle":"The Creator","mediaUrl":"/m/the_creator_2023"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":85,"quote":"The question of how far in the past a movie needs to be set to qualify as a period piece is worth asking, and it’s to Gillespie’s credit that Dumb Money feels of a piece with 2021.","publicationReviewUrl":"https://www.theringer.com/movies/2023/9/19/23879592/dumb-money-review-gamestop-short-squeeze","date":"Sep 19, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/d549e37d-4c2e-3aa4-8d18-16d0738070df","mediaInfo":"2023","mediaTitle":"Dumb Money","mediaUrl":"/m/dumb_money"},{"authorName":"Jodi Walker","authorUrl":"/critics/jodi-walker/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":92,"quote":"Rachel Sennott, Ayo Edebiri, and Molly Gordon have crafted a comedic vibe all their own, and with the release of Bottoms, it grows ever stronger.","publicationReviewUrl":"https://www.theringer.com/movies/2023/8/30/23852027/bottoms-rachel-sennot-ayo-edebiri-molly-gordon-cinematic-universe","date":"Sep 13, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/2c60cd0c-73e0-3824-9f62-30c2785c4263","mediaInfo":"2023","mediaTitle":"Bottoms","mediaUrl":"/m/bottoms"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":94,"quote":"Talk to Me holds you in its grip until it’s over, but that’s it. On the strength of pure craft and ambition, the Philippous have earned entry into the elevated-horror club; maybe as they grow and develop as directors, they’ll renounce their membership...","publicationReviewUrl":"https://www.theringer.com/movies/2023/8/1/23815491/talk-to-me-elevated-horror","date":"Aug 07, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/2f95ceec-ac42-48b0-9997-92ed672475ee","mediaInfo":"2023","mediaTitle":"Talk to Me","mediaUrl":"/m/talk_to_me_2023"},{"authorName":"Daniel Chin","authorUrl":"/critics/daniel-chin/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":96,"quote":"The latest ‘TMNT’ movie reboot is the freshest the 40-year-old franchise has been in ages.","publicationReviewUrl":"https://www.theringer.com/movies/2023/8/4/23819879/teenage-mutant-ninja-turtles-mutant-mayhem-tmnt","date":"Aug 07, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/2da44bd6-2a22-3238-a139-a40ab1769550","mediaInfo":"2023","mediaTitle":"Teenage Mutant Ninja Turtles: Mutant Mayhem","mediaUrl":"/m/teenage_mutant_ninja_turtles_mutant_mayhem"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":93,"quote":"Everything about Christopher Nolan’s latest movie is massive. The level of shock and awe is breathtaking, but it can also be taxing.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/21/23802231/oppenheimer-review","date":"Jul 29, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/07d7f9a2-3fa1-342a-b6ca-27fd594e04c6","mediaInfo":"2023","mediaTitle":"Oppenheimer","mediaUrl":"/m/oppenheimer_2023"},{"authorName":"Miles Surrey","authorUrl":"/critics/miles-surrey/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":93,"quote":"The paradoxical thrill of Oppenheimer is that Nolan crafts an epic tale that’s intimate in nature—daring to go small when everyone is expecting a grand display of showmanship.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/24/23805101/oppenheimer-christopher-nolan-direction-restraint-atomic-bomb","date":"Jul 29, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/07d7f9a2-3fa1-342a-b6ca-27fd594e04c6","mediaInfo":"2023","mediaTitle":"Oppenheimer","mediaUrl":"/m/oppenheimer_2023"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":88,"quote":"There’s no punching down in Showing Up and not much navel-gazing either: just a master of her craft contemplating the myriad difficulties endemic to creating anything, and then making it look effortless.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jul 21, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/e25f4530-fc93-481b-9a67-4222085c6bbd","mediaInfo":"2022","mediaTitle":"Showing Up","mediaUrl":"/m/showing_up_2022"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":100,"quote":"That it's hard at times to tell what's authentic and what's speculative here is very much the point of the enterprise, but the mix of radical ideology and hybrid aesthetics is completely galvanizing.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jul 21, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/7197dbb1-a532-3d41-be6c-297025c876cf","mediaInfo":"2022","mediaTitle":"Dry Ground Burning","mediaUrl":"/m/dry_ground_burning"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":99,"quote":"Kelly Fremon Craig fulfills the promise of her endearingly tough debut, The Edge of Seventeen, with a perfectly realized adaptation of Judy Blume's kid-lit classic.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jul 21, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/40b88250-90ce-3d27-901f-22233a4664a8","mediaInfo":"2023","mediaTitle":"Are You There God? It's Me, Margaret.","mediaUrl":"/m/are_you_there_god_its_me_margaret"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":67,"quote":"Even though his spiritual successor, Jordan Peele, is reaching for the A-plus B movie torch, Night remains the industry standard.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jul 21, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/ffdcfeea-d1ad-328f-bc08-f5a9434c454e","mediaInfo":"2023","mediaTitle":"Knock at the Cabin","mediaUrl":"/m/knock_at_the_cabin"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":96,"quote":"It’s smart stuff, leaps and bounds beyond Marvel’s snarky hegemony...","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jul 21, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/27539355-4940-4c29-aaab-d3fe4dafa4ee","mediaInfo":"2023","mediaTitle":"Spider-Man: Across the Spider-Verse","mediaUrl":"/m/spider_man_across_the_spider_verse"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":91,"quote":"It’s hard to blend mumblecore tropes with existential panic, but Petzold makes it work, especially in a final act rife with fleeting, surreal touches.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jul 21, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/1fb3a45f-3519-454f-984c-cbe93464f0d0","mediaInfo":"2023","mediaTitle":"Afire","mediaUrl":"/m/afire"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":98,"quote":"Past Lives is schematic but effective; what makes it work are the performances by Greta Lee and Teo Yoo as these star-crossed not-quite lovers’ adolescent and adult incarnations.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jul 21, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/34f0e7cf-195e-463c-9d81-5f283cfd2e34","mediaInfo":"2023","mediaTitle":"Past Lives","mediaUrl":"/m/past_lives"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":98,"quote":"The MVP: Glenn Howerton as BlackBerry’s unscrupulous co-CEO, Jim Balsillie, who never met an underling he didn’t want to snap in half.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jul 21, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/8288e032-b21a-481b-ab53-f3b2853cd0c1","mediaInfo":"2023","mediaTitle":"BlackBerry","mediaUrl":"/m/blackberry"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":94,"quote":"Sensational stunts, rigorous physical blocking and camera choreography, judicious but satisfying gore, and an incongruous nod to Frogger—good stuff, Mr. Wick.","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jul 21, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/fde71436-f4ed-323f-b23d-6e0ce470d4ba","mediaInfo":"2023","mediaTitle":"John Wick: Chapter 4","mediaUrl":"/m/john_wick_chapter_4"},{"authorName":"Miles Surrey","authorUrl":"/critics/miles-surrey/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":69,"quote":"... The experience of watching Dial of Destiny is best appreciated in relation to Indy: as a character study of a hero whose triumphs and flaws—and how they affect the people closest to him—are laid bare. ","publicationReviewUrl":"https://www.theringer.com/movies/2023/6/30/23777472/indiana-jones-dial-of-destiny-helena-shaw-phoebe-waller-bridge","date":"Jul 03, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/03dfaaa5-bb73-31e9-abb5-30349e999761","mediaInfo":"2023","mediaTitle":"Indiana Jones and the Dial of Destiny","mediaUrl":"/m/indiana_jones_and_the_dial_of_destiny"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":71,"quote":"No Hard Feelings doesn’t mean any harm, and more power to it.","publicationReviewUrl":"https://www.theringer.com/movies/2023/6/23/23770417/no-hard-feelings-jennifer-lawrence-review-sex-comedy","date":"Jun 27, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/3982b42b-f263-3d4c-a8d0-20b6616449aa","mediaInfo":"2023","mediaTitle":"No Hard Feelings","mediaUrl":"/m/no_hard_feelings_2023"},{"authorName":"Charles Holmes","authorUrl":"/critics/charles-holmes-1/movies","compareValue":"0_undefined","tomatometerState":"rotten","mediaTomatometerState":"rotten","mediaTomatometerScore":46,"quote":"The supposedly limitless storytelling device has been pushed to its narrative limits. Just look to Quantumania for proof.","publicationReviewUrl":"https://www.theringer.com/movies/2023/3/9/23630666/multiverse-everything-everywhere-all-at-once-rick-morty-ant-man-quantumania","date":"Jun 27, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/431505cc-700e-4f8c-911a-2f3fcb2ac5a3","mediaInfo":"2023","mediaTitle":"Ant-Man and The Wasp: Quantumania","mediaUrl":"/m/ant_man_and_the_wasp_quantumania"},{"authorName":"Charles Holmes","authorUrl":"/critics/charles-holmes-1/movies","compareValue":"0_undefined","tomatometerState":"rotten","mediaTomatometerState":"fresh","mediaTomatometerScore":63,"quote":"Warner’s $220 million, CGI-filled bomb is what happens when superhero movies peddle in nostalgia for a history that doesn’t exist.","publicationReviewUrl":"https://www.theringer.com/dc/2023/6/20/23766571/the-flash-box-office-bomb-cgi-ip-warner","date":"Jun 27, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/7807e2b5-72d7-3dc7-8cd4-b9482b82fe01","mediaInfo":"2023","mediaTitle":"The Flash","mediaUrl":"/m/the_flash_2023"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":75,"quote":"One by-product of Anderson’s detail-oriented filmmaking is that it benefits from repeat viewing, and if there’s one movie this year that’s likely to improve upon reflection, this is it.\n","publicationReviewUrl":"https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking","date":"Jun 16, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/b932ce0d-a67f-40d1-99da-e397626eac8f","mediaInfo":"2023","mediaTitle":"Asteroid City","mediaUrl":"/m/asteroid_city"},{"authorName":"Miles Surrey","authorUrl":"/critics/miles-surrey/movies","compareValue":"0_undefined","tomatometerState":"rotten","mediaTomatometerState":"rotten","mediaTomatometerScore":57,"quote":"After five films of explosive, mind-numbing action scenes, Michael Bay’s ‘Transformers’ had run its course. ‘Bumblebee’ was a pleasant surprise, but the latest film feels straight out of a Hasbro assembly line.","publicationReviewUrl":"https://www.theringer.com/movies/2023/6/9/23754235/transformers-rise-of-the-beasts-bumblebee-michael-bay-movies","date":"Jun 16, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/c7627c95-c824-36eb-9226-12fd6841081b","mediaInfo":"2007","mediaTitle":"Transformers","mediaUrl":"/m/transformers_the_movie"},{"authorName":"Justin Charity","authorUrl":"/critics/justin-charity/movies","compareValue":"0_undefined","tomatometerState":"rotten","mediaTomatometerState":"fresh","mediaTomatometerScore":87,"quote":"The romance of Jocelyn and Tedros, in this early phase, isn’t quite intriguing, just overwhelming. Before she even meets Tedros, Jocelyn is already a host to so many parasites.","publicationReviewUrl":"https://www.theringer.com/tv/2023/6/9/23754187/the-idol-hbo-lily-rose-depp-sam-levinson-the-weeknd-music-satire","date":"Jun 16, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/80ce8cfb-c9ef-42c9-bd7e-38a6012e9602","mediaInfo":"2022","mediaTitle":"Mama Bears","mediaUrl":"/m/mama_bears"},{"authorName":"Miles Surrey","authorUrl":"/critics/miles-surrey/movies","compareValue":"0_undefined","tomatometerState":"rotten","mediaTomatometerState":"fresh","mediaTomatometerScore":63,"quote":"The Flash isn’t the first movie to seem like it’s been cursed, but the multitude of ways in which the production misfired is frankly bizarre and somewhat unprecedented.","publicationReviewUrl":"https://www.theringer.com/dc/2023/6/16/23762778/the-flash-movie-review-cursed-ezra-miller-dc-james-gunn","date":"Jun 16, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/7807e2b5-72d7-3dc7-8cd4-b9482b82fe01","mediaInfo":"2023","mediaTitle":"The Flash","mediaUrl":"/m/the_flash_2023"},{"authorName":"Manuela Lazic","authorUrl":"/critics/manuela-lazic/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":100,"quote":"Humble but playful with his usual beautifully composed images, acknowledging that answers are hard to come by but offering some respite, the filmmaker offers an optimism grounded in reality—a poetry born out of difficulty.","publicationReviewUrl":"https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall","date":"Jun 05, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/7e5e0bd6-8541-411a-99e5-251d8826c4cd","mediaInfo":"2023","mediaTitle":"Fallen Leaves","mediaUrl":"/m/fallen_leaves"},{"authorName":"Manuela Lazic","authorUrl":"/critics/manuela-lazic/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":94,"quote":"Triet’s deserving of recognition...","publicationReviewUrl":"https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall","date":"Jun 05, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/865b81a4-aa57-4f52-b248-93d5cf3d7fe9","mediaInfo":"2023","mediaTitle":"The Zone of Interest","mediaUrl":"/m/the_zone_of_interest"},{"authorName":"Manuela Lazic","authorUrl":"/critics/manuela-lazic/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":75,"quote":"Breillat here ventures even deeper into the dark territory of forbidden desires, not out of perversion but rather to push our understandings of ourselves and our impulses further.","publicationReviewUrl":"https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall","date":"Jun 05, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/8aba73bd-a34f-42fc-87b0-9967bfedb7ac","mediaInfo":"2023","mediaTitle":"Last Summer","mediaUrl":"/m/last_summer_2023"},{"authorName":"Manuela Lazic","authorUrl":"/critics/manuela-lazic/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":91,"quote":"As Elizabeth slowly steps into Gracie’s shoes without scruples and brings back to the surface old questions about the couple, every interaction between the two becomes more volatile, and several scenes are shockingly funny. ","publicationReviewUrl":"https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall","date":"Jun 05, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/f90cf0b0-afab-39fb-9ddd-ebcb3629c9c3","mediaInfo":"2023","mediaTitle":"May December","mediaUrl":"/m/may_december"},{"authorName":"Manuela Lazic","authorUrl":"/critics/manuela-lazic/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":98,"quote":"Anatomy of a Fall goes further than traditional procedurals by taking the notion of guilt beyond hard facts and toward the idea of toxic influence, exploring gender dynamics in the process.","publicationReviewUrl":"https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall","date":"Jun 05, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/621955c8-b3e9-46db-b4bc-ca3e8718651d","mediaInfo":"2023","mediaTitle":"Anatomy of a Fall","mediaUrl":"/m/anatomy_of_a_fall"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":89,"quote":"Sanctuary is a playful piece of work—an exercise designed to keep its actors limber and to make us delight in their flexibility. Hopefully, Qualley will get even more opportunities to stretch soon enough...","publicationReviewUrl":"https://www.theringer.com/movies/2023/5/24/23735137/margaret-qualley-sanctuary-film-review","date":"Jun 02, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/cf8e4b37-202e-4078-b9a5-f7372c6271ed","mediaInfo":"2022","mediaTitle":"Sanctuary","mediaUrl":"/m/sanctuary_2022"},{"authorName":"Manuela Lazic","authorUrl":"/critics/manuela-lazic/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":97,"quote":"Martin Scorsese’s three-hour Western features a throwback performance from Robert De Niro and Leonardo DiCaprio at his best in a film that mirrors aspects of classics like Goodfellas.","publicationReviewUrl":"https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall","date":"Jun 02, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/ff9918ce-f29e-3e6c-a421-166c60742d9a","mediaInfo":"2023","mediaTitle":"Killers of the Flower Moon","mediaUrl":"/m/killers_of_the_flower_moon"},{"authorName":"Daniel Chin","authorUrl":"/critics/daniel-chin/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":96,"quote":"The sequel to ‘Into the Spider-Verse’ is even more ambitious, adventurous, and visually spellbinding than its predecessor—and just as filled with heart.","publicationReviewUrl":"https://www.theringer.com/movies/2023/6/2/23746681/spider-man-across-the-spider-verse-review","date":"Jun 02, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/27539355-4940-4c29-aaab-d3fe4dafa4ee","mediaInfo":"2023","mediaTitle":"Spider-Man: Across the Spider-Verse","mediaUrl":"/m/spider_man_across_the_spider_verse"},{"authorName":"Miles Surrey","authorUrl":"/critics/miles-surrey/movies","compareValue":"0_undefined","tomatometerState":"rotten","mediaTomatometerState":"rotten","mediaTomatometerScore":56,"quote":"The increasingly predictable, self-referential nature of the storytelling makes every subsequent film feel like a parody of itself—the cinematic equivalent of drifting around in circles.","publicationReviewUrl":"https://www.theringer.com/movies/2023/5/19/23729083/fast-x-vin-diesel-dominic-toretto-open-letter-stop-making-movies","date":"May 20, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/00b20d93-6265-3079-a0da-de975d7ff0b1","mediaInfo":"2023","mediaTitle":"Fast X","mediaUrl":"/m/fast_x"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"rotten","mediaTomatometerScore":26,"quote":"White Men Can’t Jump doesn’t have much vertical, but it’s enough to get the job done.","publicationReviewUrl":"https://www.theringer.com/movies/2023/5/18/23727534/white-men-cant-jump-remake-review-original","date":"May 18, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/a3854428-cd9c-4f47-8911-2c14b81d747e","mediaInfo":"2023","mediaTitle":"White Men Can't Jump","mediaUrl":"/m/white_men_cant_jump_2023"},{"authorName":"Miles Surrey","authorUrl":"/critics/miles-surrey/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":82,"quote":"Marvel will miss James Gunn more than Gunn will miss Marvel, but if there’s any way for the MCU to get out of its current funk, then ‘Guardians of the Galaxy Vol. 3’ should be the blueprint going forward.","publicationReviewUrl":"https://www.theringer.com/marvel-cinematic-universe/2023/5/5/23711628/guardians-of-the-galaxy-vol-3-review-james-gunn-marvel-dc","date":"May 05, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/30ef95fc-0ff5-35a3-98f6-d051de8bc1b8","mediaInfo":"2023","mediaTitle":"Guardians of the Galaxy Vol. 3","mediaUrl":"/m/guardians_of_the_galaxy_vol_3"},{"authorName":"Adam Nayman","authorUrl":"/critics/adam-nayman/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"certified-fresh","mediaTomatometerScore":73,"quote":"It’s a fine line between pathos and ridiculousness, and Close walks it like a velvet tightrope.","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/28/23701494/fatal-attraction-movie-paramount-plus-series","date":"May 05, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/d305017f-ac76-3bae-9976-7aa9988a734d","mediaInfo":"1987","mediaTitle":"Fatal Attraction","mediaUrl":"/m/1007141-fatal_attraction"},{"authorName":"Jodi Walker","authorUrl":"/critics/jodi-walker/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"rotten","mediaTomatometerScore":40,"quote":"New York City high jinks! inter-school-newspaper romance!—but Lohan's iconic fits are so singular within the genre that every other DCOM simply pales in couture comparison.","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/865063e0-9f48-30bb-b8ea-12c699cdd0b2","mediaInfo":"2002","mediaTitle":"Get a Clue","mediaUrl":"/m/get_a_clue"},{"authorName":"Austin Gayle","authorUrl":"/critics/austin-gayle/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":null,"mediaTomatometerScore":null,"quote":"Disney Channel’s cheesiest, greatest baseball movie.","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/a258de5d-b527-33c8-b8f5-fc99a79fa648","mediaInfo":"2003","mediaTitle":"Eddie's Million Dollar Cook-Off","mediaUrl":"/m/eddies_million_dollar_cookoff"},{"authorName":"Jodi Walker","authorUrl":"/critics/jodi-walker/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":null,"mediaTomatometerScore":null,"quote":"[It] brings about an entire generation of tweens’ first brushes with Shakespeare, dynamic gender expression, and the niche sport of motocross. ","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/5e7a378d-e8c2-321a-afbd-4629689e1e0d","mediaInfo":"2001","mediaTitle":"Motocrossed","mediaUrl":"/m/motocrossed"},{"authorName":"Kate Halliwell","authorUrl":"/critics/kate-halliwell/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"rotten","mediaTomatometerScore":50,"quote":"Demi’s final performance essentially kicked off her pop career, and rightfully so...","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/90fec30c-912b-3ee6-b994-892e44781c8c","mediaInfo":"2008","mediaTitle":"Camp Rock","mediaUrl":"/m/camp_rock"},{"authorName":"Claire McNear","authorUrl":"/critics/claire-mcnear/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":null,"mediaTomatometerScore":null,"quote":"If that’s not the fantasy of the entire DCOM viewership, I don’t know what is...","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/cf09b3db-4364-338c-b5cf-b534380c2434","mediaInfo":"1999","mediaTitle":"The Thirteenth Year","mediaUrl":"/m/thirteenth_year"},{"authorName":"Bridget Geerlings","authorUrl":"/critics/bridget-geerlings/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":null,"mediaTomatometerScore":null,"quote":"Disney knows how to churn out emotional sports films, and this is an excellent addition to the roster, especially for young girls...","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/6d4d42dc-0ca4-3326-8dfe-680396b41cc3","mediaInfo":"2002","mediaTitle":"Double Teamed","mediaUrl":"/m/double_teamed"},{"authorName":"Andrew Gruttadaro","authorUrl":"/critics/andrew-gruttadaro/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"rotten","mediaTomatometerScore":50,"quote":"Nonsense is exactly what Even Stevens is good at, and the movie never forgets that...","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/0825b84a-3eef-3e49-b50e-2bd0d67dd006","mediaInfo":"2003","mediaTitle":"The Even Stevens Movie","mediaUrl":"/m/even_stevens_movie"},{"authorName":"Austin Gayle","authorUrl":"/critics/austin-gayle/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":null,"mediaTomatometerScore":null,"quote":"The kid simply doesn’t miss...","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/b2aac70c-073c-3fda-b3cc-29fe23faede9","mediaInfo":"1999","mediaTitle":"Johnny Tsunami","mediaUrl":"/m/johnny_tsunami"},{"authorName":"Jodi Walker","authorUrl":"/critics/jodi-walker/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":null,"mediaTomatometerScore":null,"quote":"This movie taught us the unique challenges faced by women in authority positions; it taught us a wildly achievable dance routine; it taught us military time. A salute to you, Cadet Kelly.","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/96871227-a880-3065-b707-6c71b264dac4","mediaInfo":"2002","mediaTitle":"Cadet Kelly","mediaUrl":"/m/cadet_kelly"},{"authorName":"Aric Jenkins","authorUrl":"/critics/aric-jenkins/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":83,"quote":"The original High School Musical may have started it all, but its sequel is the movie that permanently etched those songs into the millennial consciousness.","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/d39b2ec3-e159-3809-af77-30d8068abd73","mediaInfo":"2007","mediaTitle":"High School Musical 2","mediaUrl":"/m/high_school_musical_2"},{"authorName":"Julianna Ress","authorUrl":"/critics/julianna-ress/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":null,"mediaTomatometerScore":null,"quote":"I wouldn’t call The Luck of the Irish’s racial commentary “deep” or “particularly good,” but it is surprising in the context of a silly comedy about a kid slowly turning into a leprechaun.","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/0af4bcf6-4720-302e-89a3-ebbd2068035f","mediaInfo":"2001","mediaTitle":"The Luck of the Irish","mediaUrl":"/m/luck_of_the_irish"},{"authorName":"Andrew Gruttadaro","authorUrl":"/critics/andrew-gruttadaro/movies","compareValue":"1_undefined","tomatometerState":"fresh","mediaTomatometerState":"fresh","mediaTomatometerScore":83,"quote":"Halloweentown’s energy is infectious, and it does what only the best DCOMs did: capture the pure, undiminishable joy of being a kid.","publicationReviewUrl":"https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking","date":"Apr 25, 2023","isSelf":false,"editReviewUrl":"/critics/self-submission/movie/60cfad7a-e244-3392-8f17-a6b3db3f8dc5","mediaInfo":"1998","mediaTitle":"Halloweentown","mediaUrl":"/m/halloweentown"}],"publicationId":"2834","title":"Movies reviews only","type":"movies"}</script>
+</critics-source-table-manager>
+<pagination-manager endcursor="MQ==" endpoint="/napi/critics/source/2834/movies" hasnext="true" hasprev="false" pagecount="50" rendertemplate="_sourceReviewsTable" startcursor=""></pagination-manager>
+<div class="sort-table">
+<ul id="filter-chips-wrapper" role="tablist">
+<filter-chip data-criticssourcetablemanager="filterChipMovies:click" data-type="movies" skeleton="chip">
+<label class="filter-label" slot="label">Movie Reviews</label>
+</filter-chip>
+<filter-chip data-criticssourcetablemanager="filterChipTv:click" data-type="tv" skeleton="chip">
+<label class="filter-label" slot="label">TV Season Reviews</label>
+</filter-chip>
+</ul>
+<div class="sort-table__pagination">
+<rt-button class="prev hide" data-paginationmanager="btnPrev:click" data-qa="prev-btn" skeleton="chip" theme="light">
+<rt-icon icon="left-arrow-stem"></rt-icon>
+                            Prev
+                        </rt-button>
+<rt-button class="next hide" data-paginationmanager="btnNext:click" data-qa="next-btn" skeleton="chip" theme="light">
+                            Next
+                            <rt-icon icon="right-arrow-stem"></rt-icon>
+</rt-button>
+</div>
+<div data-criticssourcetablemanager="paginatedDataContainer" data-paginationmanager="paginatedDataContainer">
+<table data-qa="critic-reviews-table">
+<thead>
+<tr>
+<th>Rating</th>
+<th>Title | Year</th>
+<th>Author</th>
+<th>Quote</th>
+</tr>
+</thead>
+<tbody>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/prisoners_2013">Prisoners</a>
+<span>(2013)</span>
+</td>
+<td>
+<a href="/critics/miles-surrey/movies">Miles Surrey</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/9/20/23880797/denis-villeneuve-prisoners-10th-anniversary-dune-part-two-delay" rel="noopener">
+<span>The tense thriller that put its director on the map...
+</span>
+</a>
+<div>
+                            Posted <span> Sep 29, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/lost_in_translation">Lost in Translation</a>
+<span>(2003)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/9/26/23889821/lost-in-translation-review-anniversary-sofia-coppola-scarlett-johansson-bill-murray" rel="noopener">
+<span>Just like the final words of Sofia Coppola’s film, the best parts of the movie are left indecipherable...</span>
+</a>
+<div>
+                            Posted <span> Sep 29, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/the_creator_2023">The Creator</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/miles-surrey/movies">Miles Surrey</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/9/29/23894998/the-creator-movie-review-gareth-edwards-john-david-washington" rel="noopener">
+<span>Gareth Edwards is more accomplished at world-building and orchestrating chaos than he is at developing characters, but the way the movie was made could be a game changer throughout Hollywood...</span>
+</a>
+<div>
+                            Posted <span> Sep 29, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/dumb_money">Dumb Money</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/9/19/23879592/dumb-money-review-gamestop-short-squeeze" rel="noopener">
+<span>The question of how far in the past a movie needs to be set to qualify as a period piece is worth asking, and it’s to Gillespie’s credit that Dumb Money feels of a piece with 2021.</span>
+</a>
+<div>
+                            Posted <span> Sep 19, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/bottoms">Bottoms</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/jodi-walker/movies">Jodi Walker</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/8/30/23852027/bottoms-rachel-sennot-ayo-edebiri-molly-gordon-cinematic-universe" rel="noopener">
+<span>Rachel Sennott, Ayo Edebiri, and Molly Gordon have crafted a comedic vibe all their own, and with the release of Bottoms, it grows ever stronger.</span>
+</a>
+<div>
+                            Posted <span> Sep 13, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/talk_to_me_2023">Talk to Me</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/8/1/23815491/talk-to-me-elevated-horror" rel="noopener">
+<span>Talk to Me holds you in its grip until it’s over, but that’s it. On the strength of pure craft and ambition, the Philippous have earned entry into the elevated-horror club; maybe as they grow and develop as directors, they’ll renounce their membership...</span>
+</a>
+<div>
+                            Posted <span> Aug 07, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/teenage_mutant_ninja_turtles_mutant_mayhem">Teenage Mutant Ninja Turtles: Mutant Mayhem</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/daniel-chin/movies">Daniel Chin</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/8/4/23819879/teenage-mutant-ninja-turtles-mutant-mayhem-tmnt" rel="noopener">
+<span>The latest ‘TMNT’ movie reboot is the freshest the 40-year-old franchise has been in ages.</span>
+</a>
+<div>
+                            Posted <span> Aug 07, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/oppenheimer_2023">Oppenheimer</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/21/23802231/oppenheimer-review" rel="noopener">
+<span>Everything about Christopher Nolan’s latest movie is massive. The level of shock and awe is breathtaking, but it can also be taxing.</span>
+</a>
+<div>
+                            Posted <span> Jul 29, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/oppenheimer_2023">Oppenheimer</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/miles-surrey/movies">Miles Surrey</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/24/23805101/oppenheimer-christopher-nolan-direction-restraint-atomic-bomb" rel="noopener">
+<span>The paradoxical thrill of Oppenheimer is that Nolan crafts an epic tale that’s intimate in nature—daring to go small when everyone is expecting a grand display of showmanship.</span>
+</a>
+<div>
+                            Posted <span> Jul 29, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/showing_up_2022">Showing Up</a>
+<span>(2022)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>There’s no punching down in Showing Up and not much navel-gazing either: just a master of her craft contemplating the myriad difficulties endemic to creating anything, and then making it look effortless.</span>
+</a>
+<div>
+                            Posted <span> Jul 21, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/dry_ground_burning">Dry Ground Burning</a>
+<span>(2022)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>That it's hard at times to tell what's authentic and what's speculative here is very much the point of the enterprise, but the mix of radical ideology and hybrid aesthetics is completely galvanizing.</span>
+</a>
+<div>
+                            Posted <span> Jul 21, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/are_you_there_god_its_me_margaret">Are You There God? It's Me, Margaret.</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>Kelly Fremon Craig fulfills the promise of her endearingly tough debut, The Edge of Seventeen, with a perfectly realized adaptation of Judy Blume's kid-lit classic.</span>
+</a>
+<div>
+                            Posted <span> Jul 21, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/knock_at_the_cabin">Knock at the Cabin</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>Even though his spiritual successor, Jordan Peele, is reaching for the A-plus B movie torch, Night remains the industry standard.</span>
+</a>
+<div>
+                            Posted <span> Jul 21, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/spider_man_across_the_spider_verse">Spider-Man: Across the Spider-Verse</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>It’s smart stuff, leaps and bounds beyond Marvel’s snarky hegemony...</span>
+</a>
+<div>
+                            Posted <span> Jul 21, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/afire">Afire</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>It’s hard to blend mumblecore tropes with existential panic, but Petzold makes it work, especially in a final act rife with fleeting, surreal touches.</span>
+</a>
+<div>
+                            Posted <span> Jul 21, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/past_lives">Past Lives</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>Past Lives is schematic but effective; what makes it work are the performances by Greta Lee and Teo Yoo as these star-crossed not-quite lovers’ adolescent and adult incarnations.</span>
+</a>
+<div>
+                            Posted <span> Jul 21, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/blackberry">BlackBerry</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>The MVP: Glenn Howerton as BlackBerry’s unscrupulous co-CEO, Jim Balsillie, who never met an underling he didn’t want to snap in half.</span>
+</a>
+<div>
+                            Posted <span> Jul 21, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/john_wick_chapter_4">John Wick: Chapter 4</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>Sensational stunts, rigorous physical blocking and camera choreography, judicious but satisfying gore, and an incongruous nod to Frogger—good stuff, Mr. Wick.</span>
+</a>
+<div>
+                            Posted <span> Jul 21, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/indiana_jones_and_the_dial_of_destiny">Indiana Jones and the Dial of Destiny</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/miles-surrey/movies">Miles Surrey</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/6/30/23777472/indiana-jones-dial-of-destiny-helena-shaw-phoebe-waller-bridge" rel="noopener">
+<span>... The experience of watching Dial of Destiny is best appreciated in relation to Indy: as a character study of a hero whose triumphs and flaws—and how they affect the people closest to him—are laid bare. </span>
+</a>
+<div>
+                            Posted <span> Jul 03, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/no_hard_feelings_2023">No Hard Feelings</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/6/23/23770417/no-hard-feelings-jennifer-lawrence-review-sex-comedy" rel="noopener">
+<span>No Hard Feelings doesn’t mean any harm, and more power to it.</span>
+</a>
+<div>
+                            Posted <span> Jun 27, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="0_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="rotten"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/ant_man_and_the_wasp_quantumania">Ant-Man and The Wasp: Quantumania</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/charles-holmes-1/movies">Charles Holmes</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/3/9/23630666/multiverse-everything-everywhere-all-at-once-rick-morty-ant-man-quantumania" rel="noopener">
+<span>The supposedly limitless storytelling device has been pushed to its narrative limits. Just look to Quantumania for proof.</span>
+</a>
+<div>
+                            Posted <span> Jun 27, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="0_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="rotten"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/the_flash_2023">The Flash</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/charles-holmes-1/movies">Charles Holmes</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/dc/2023/6/20/23766571/the-flash-box-office-bomb-cgi-ip-warner" rel="noopener">
+<span>Warner’s $220 million, CGI-filled bomb is what happens when superhero movies peddle in nostalgia for a history that doesn’t exist.</span>
+</a>
+<div>
+                            Posted <span> Jun 27, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/asteroid_city">Asteroid City</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/7/13/23793032/best-movies-2023-ranking" rel="noopener">
+<span>One by-product of Anderson’s detail-oriented filmmaking is that it benefits from repeat viewing, and if there’s one movie this year that’s likely to improve upon reflection, this is it.
+</span>
+</a>
+<div>
+                            Posted <span> Jun 16, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="0_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="rotten"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/transformers_the_movie">Transformers</a>
+<span>(2007)</span>
+</td>
+<td>
+<a href="/critics/miles-surrey/movies">Miles Surrey</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/6/9/23754235/transformers-rise-of-the-beasts-bumblebee-michael-bay-movies" rel="noopener">
+<span>After five films of explosive, mind-numbing action scenes, Michael Bay’s ‘Transformers’ had run its course. ‘Bumblebee’ was a pleasant surprise, but the latest film feels straight out of a Hasbro assembly line.</span>
+</a>
+<div>
+                            Posted <span> Jun 16, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="0_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="rotten"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/mama_bears">Mama Bears</a>
+<span>(2022)</span>
+</td>
+<td>
+<a href="/critics/justin-charity/movies">Justin Charity</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/tv/2023/6/9/23754187/the-idol-hbo-lily-rose-depp-sam-levinson-the-weeknd-music-satire" rel="noopener">
+<span>The romance of Jocelyn and Tedros, in this early phase, isn’t quite intriguing, just overwhelming. Before she even meets Tedros, Jocelyn is already a host to so many parasites.</span>
+</a>
+<div>
+                            Posted <span> Jun 16, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="0_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="rotten"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/the_flash_2023">The Flash</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/miles-surrey/movies">Miles Surrey</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/dc/2023/6/16/23762778/the-flash-movie-review-cursed-ezra-miller-dc-james-gunn" rel="noopener">
+<span>The Flash isn’t the first movie to seem like it’s been cursed, but the multitude of ways in which the production misfired is frankly bizarre and somewhat unprecedented.</span>
+</a>
+<div>
+                            Posted <span> Jun 16, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/fallen_leaves">Fallen Leaves</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/manuela-lazic/movies">Manuela Lazic</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall" rel="noopener">
+<span>Humble but playful with his usual beautifully composed images, acknowledging that answers are hard to come by but offering some respite, the filmmaker offers an optimism grounded in reality—a poetry born out of difficulty.</span>
+</a>
+<div>
+                            Posted <span> Jun 05, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/the_zone_of_interest">The Zone of Interest</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/manuela-lazic/movies">Manuela Lazic</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall" rel="noopener">
+<span>Triet’s deserving of recognition...</span>
+</a>
+<div>
+                            Posted <span> Jun 05, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/last_summer_2023">Last Summer</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/manuela-lazic/movies">Manuela Lazic</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall" rel="noopener">
+<span>Breillat here ventures even deeper into the dark territory of forbidden desires, not out of perversion but rather to push our understandings of ourselves and our impulses further.</span>
+</a>
+<div>
+                            Posted <span> Jun 05, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/may_december">May December</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/manuela-lazic/movies">Manuela Lazic</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall" rel="noopener">
+<span>As Elizabeth slowly steps into Gracie’s shoes without scruples and brings back to the surface old questions about the couple, every interaction between the two becomes more volatile, and several scenes are shockingly funny. </span>
+</a>
+<div>
+                            Posted <span> Jun 05, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/anatomy_of_a_fall">Anatomy of a Fall</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/manuela-lazic/movies">Manuela Lazic</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall" rel="noopener">
+<span>Anatomy of a Fall goes further than traditional procedurals by taking the notion of guilt beyond hard facts and toward the idea of toxic influence, exploring gender dynamics in the process.</span>
+</a>
+<div>
+                            Posted <span> Jun 05, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/sanctuary_2022">Sanctuary</a>
+<span>(2022)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/5/24/23735137/margaret-qualley-sanctuary-film-review" rel="noopener">
+<span>Sanctuary is a playful piece of work—an exercise designed to keep its actors limber and to make us delight in their flexibility. Hopefully, Qualley will get even more opportunities to stretch soon enough...</span>
+</a>
+<div>
+                            Posted <span> Jun 02, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/killers_of_the_flower_moon">Killers of the Flower Moon</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/manuela-lazic/movies">Manuela Lazic</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/5/31/23743317/2023-cannes-film-festival-best-movies-may-december-anatomy-of-a-fall" rel="noopener">
+<span>Martin Scorsese’s three-hour Western features a throwback performance from Robert De Niro and Leonardo DiCaprio at his best in a film that mirrors aspects of classics like Goodfellas.</span>
+</a>
+<div>
+                            Posted <span> Jun 02, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/spider_man_across_the_spider_verse">Spider-Man: Across the Spider-Verse</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/daniel-chin/movies">Daniel Chin</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/6/2/23746681/spider-man-across-the-spider-verse-review" rel="noopener">
+<span>The sequel to ‘Into the Spider-Verse’ is even more ambitious, adventurous, and visually spellbinding than its predecessor—and just as filled with heart.</span>
+</a>
+<div>
+                            Posted <span> Jun 02, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="0_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="rotten"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/fast_x">Fast X</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/miles-surrey/movies">Miles Surrey</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/5/19/23729083/fast-x-vin-diesel-dominic-toretto-open-letter-stop-making-movies" rel="noopener">
+<span>The increasingly predictable, self-referential nature of the storytelling makes every subsequent film feel like a parody of itself—the cinematic equivalent of drifting around in circles.</span>
+</a>
+<div>
+                            Posted <span> May 20, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/white_men_cant_jump_2023">White Men Can't Jump</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/5/18/23727534/white-men-cant-jump-remake-review-original" rel="noopener">
+<span>White Men Can’t Jump doesn’t have much vertical, but it’s enough to get the job done.</span>
+</a>
+<div>
+                            Posted <span> May 18, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/guardians_of_the_galaxy_vol_3">Guardians of the Galaxy Vol. 3</a>
+<span>(2023)</span>
+</td>
+<td>
+<a href="/critics/miles-surrey/movies">Miles Surrey</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/marvel-cinematic-universe/2023/5/5/23711628/guardians-of-the-galaxy-vol-3-review-james-gunn-marvel-dc" rel="noopener">
+<span>Marvel will miss James Gunn more than Gunn will miss Marvel, but if there’s any way for the MCU to get out of its current funk, then ‘Guardians of the Galaxy Vol. 3’ should be the blueprint going forward.</span>
+</a>
+<div>
+                            Posted <span> May 05, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/1007141-fatal_attraction">Fatal Attraction</a>
+<span>(1987)</span>
+</td>
+<td>
+<a href="/critics/adam-nayman/movies">Adam Nayman</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/28/23701494/fatal-attraction-movie-paramount-plus-series" rel="noopener">
+<span>It’s a fine line between pathos and ridiculousness, and Close walks it like a velvet tightrope.</span>
+</a>
+<div>
+                            Posted <span> May 05, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/get_a_clue">Get a Clue</a>
+<span>(2002)</span>
+</td>
+<td>
+<a href="/critics/jodi-walker/movies">Jodi Walker</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>New York City high jinks! inter-school-newspaper romance!—but Lohan's iconic fits are so singular within the genre that every other DCOM simply pales in couture comparison.</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/eddies_million_dollar_cookoff">Eddie's Million Dollar Cook-Off</a>
+<span>(2003)</span>
+</td>
+<td>
+<a href="/critics/austin-gayle/movies">Austin Gayle</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>Disney Channel’s cheesiest, greatest baseball movie.</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/motocrossed">Motocrossed</a>
+<span>(2001)</span>
+</td>
+<td>
+<a href="/critics/jodi-walker/movies">Jodi Walker</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>[It] brings about an entire generation of tweens’ first brushes with Shakespeare, dynamic gender expression, and the niche sport of motocross. </span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/camp_rock">Camp Rock</a>
+<span>(2008)</span>
+</td>
+<td>
+<a href="/critics/kate-halliwell/movies">Kate Halliwell</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>Demi’s final performance essentially kicked off her pop career, and rightfully so...</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/thirteenth_year">The Thirteenth Year</a>
+<span>(1999)</span>
+</td>
+<td>
+<a href="/critics/claire-mcnear/movies">Claire McNear</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>If that’s not the fantasy of the entire DCOM viewership, I don’t know what is...</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/double_teamed">Double Teamed</a>
+<span>(2002)</span>
+</td>
+<td>
+<a href="/critics/bridget-geerlings/movies">Bridget Geerlings</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>Disney knows how to churn out emotional sports films, and this is an excellent addition to the roster, especially for young girls...</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/even_stevens_movie">The Even Stevens Movie</a>
+<span>(2003)</span>
+</td>
+<td>
+<a href="/critics/andrew-gruttadaro/movies">Andrew Gruttadaro</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>Nonsense is exactly what Even Stevens is good at, and the movie never forgets that...</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/johnny_tsunami">Johnny Tsunami</a>
+<span>(1999)</span>
+</td>
+<td>
+<a href="/critics/austin-gayle/movies">Austin Gayle</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>The kid simply doesn’t miss...</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/cadet_kelly">Cadet Kelly</a>
+<span>(2002)</span>
+</td>
+<td>
+<a href="/critics/jodi-walker/movies">Jodi Walker</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>This movie taught us the unique challenges faced by women in authority positions; it taught us a wildly achievable dance routine; it taught us military time. A salute to you, Cadet Kelly.</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/high_school_musical_2">High School Musical 2</a>
+<span>(2007)</span>
+</td>
+<td>
+<a href="/critics/aric-jenkins/movies">Aric Jenkins</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>The original High School Musical may have started it all, but its sequel is the movie that permanently etched those songs into the millennial consciousness.</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/luck_of_the_irish">The Luck of the Irish</a>
+<span>(2001)</span>
+</td>
+<td>
+<a href="/critics/julianna-ress/movies">Julianna Ress</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>I wouldn’t call The Luck of the Irish’s racial commentary “deep” or “particularly good,” but it is surprising in the context of a silly comedy about a kid slowly turning into a leprechaun.</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+<tr data-qa="row">
+<td data-compare="1_undefined" data-qa="critic-review-rating">
+<div class="critic-source__reviews__rating">
+<score-icon-critic-deprecated percentage="hide" state="fresh"></score-icon-critic-deprecated>
+<span></span>
+</div>
+</td>
+<td data-qa="critic-review-title">
+<a data-qa="critic-review-media-link" href="/m/halloweentown">Halloweentown</a>
+<span>(1998)</span>
+</td>
+<td>
+<a href="/critics/andrew-gruttadaro/movies">Andrew Gruttadaro</a>
+</td>
+<td class="critic-source__reviews__review" data-qa="critic-review">
+<a class="publication-link" href="https://www.theringer.com/movies/2023/4/18/23687084/disney-channel-original-movies-ranking" rel="noopener">
+<span>Halloweentown’s energy is infectious, and it does what only the best DCOMs did: capture the pure, undiminishable joy of being a kid.</span>
+</a>
+<div>
+                            Posted <span> Apr 25, 2023</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sort-table__pagination">
+<rt-button class="prev hide" data-paginationmanager="btnPrev:click" data-qa="prev-btn" skeleton="chip" theme="light">
+<rt-icon icon="left-arrow-stem"></rt-icon>
+                            Prev
+                        </rt-button>
+<rt-button class="next hide" data-paginationmanager="btnNext:click" data-qa="next-btn" skeleton="chip" theme="light">
+                            Next
+                            <rt-icon icon="right-arrow-stem"></rt-icon>
+</rt-button>
+</div>
+</div>
+</div>
+</div>
+<aside class="layout__column layout__column--sidebar layout__column--sidebar-right mobile-hidden">
+<section data-qa="section:critics-nav-desktop">
+<nav class="critics-nav">
+<ul class="critics-nav__links">
+<li class="critics-nav__list-item" data-qa="critics-nav-item">
+<a class="critics-nav__link" data-qa="critics-nav-item-link" href="/critics">Tomatometer-approved critics</a>
+</li>
+<li class="critics-nav__list-item" data-qa="critics-nav-item">
+<a class="critics-nav__link" data-qa="critics-nav-item-link" href="/critics/top_critics">Top critics</a>
+</li>
+<li class="critics-nav__list-item" data-qa="critics-nav-item">
+<a class="critics-nav__link" data-qa="critics-nav-item-link" href="/critics/authors">Critics list</a>
+</li>
+<li class="critics-nav__list-item active" data-qa="critics-nav-item">
+<a class="critics-nav__link strong" data-qa="critics-nav-item-link" href="/critics/sources">Publications list</a>
+</li>
+<li class="critics-nav__list-item" data-qa="critics-nav-item">
+<a class="critics-nav__link" data-qa="critics-nav-item-link" href="/critics/criteria">Critic application &amp; criteria</a>
+</li>
+<li class="critics-nav__list-item" data-qa="critics-nav-item">
+<a class="critics-nav__link" data-qa="critics-nav-item-link" href="https://editorial.rottentomatoes.com/critics-corner/">Critic resources</a>
+<span aria-hidden="true" class="new-badge">New</span>
+</li>
+<li class="critics-nav__list-item" data-qa="critics-nav-item">
+<a class="critics-nav__link" data-qa="critics-nav-item-link" href="/critics/critics_groups">Groups &amp; associations</a>
+</li>
+<li class="critics-nav__list-item" data-qa="critics-nav-item">
+<a class="critics-nav__link" data-qa="critics-nav-item-link" href="/critics/archives">RT Archives</a>
+</li>
+</ul>
+</nav>
+</section>
+<ad-unit hidden="" showadlink="" unitdisplay="desktop" unittype="topmulti">
+<div slot="adInject"></div>
+</ad-unit>
+<section class="authors">
+<h2>Authors</h2>
+<ul>
+<li>
+<a href="/critics/adam-nayman">Adam Nayman</a>
+</li>
+<li>
+<a href="/critics/alex-siquig">Alex Siquig</a>
+</li>
+<li>
+<a href="/critics/alison-herman">Alison Herman</a>
+</li>
+<li>
+<a href="/critics/allison-p-davis">Allison P. Davis</a>
+</li>
+<li>
+<a href="/critics/alyssa-bereznak">Alyssa Bereznak</a>
+</li>
+<li>
+<a href="/critics/amanda-dobbins">Amanda Dobbins</a>
+</li>
+<li>
+<a href="/critics/amelia-wedemeyer">Amelia Wedemeyer</a>
+</li>
+<li>
+<a href="/critics/andrew-gruttadaro">Andrew Gruttadaro</a>
+</li>
+<li>
+<a href="/critics/aric-jenkins">Aric Jenkins</a>
+</li>
+<li>
+<a href="/critics/austin-gayle">Austin Gayle</a>
+</li>
+<li>
+<a href="/critics/ben-lindbergh">Ben Lindbergh</a>
+</li>
+<li>
+<a href="/critics/brian-phillips">Brian Phillips</a>
+</li>
+<li>
+<a href="/critics/charles-holmes-1">Charles Holmes</a>
+</li>
+<li>
+<a href="/critics/chris-ryan">Chris Ryan</a>
+</li>
+<li>
+<a href="/critics/claire-mcnear">Claire McNear</a>
+</li>
+<li>
+<a href="/critics/dan-comer">Dan Comer</a>
+</li>
+<li>
+<a href="/critics/daniel-chin">Daniel Chin</a>
+</li>
+<li>
+<a href="/critics/danny-chau">Danny Chau</a>
+</li>
+<li>
+<a href="/critics/danny-heifetz">Danny Heifetz</a>
+</li>
+<li>
+<a href="/critics/david-shoemaker">David Shoemaker</a>
+</li>
+<li>
+<a href="/critics/donnie-kwak">Donnie Kwak</a>
+</li>
+<li>
+<a href="/critics/elizabeth-nelson">Elizabeth Nelson</a>
+</li>
+<li>
+<a href="/critics/haley-mlotek">Haley Mlotek</a>
+</li>
+<li>
+<a href="/critics/hannah-giorgis">Hannah Giorgis</a>
+</li>
+<li>
+<a href="/critics/israel-daramola">Israel Daramola</a>
+</li>
+<li>
+<a href="/critics/jane-hu">Jane Hu</a>
+</li>
+<li>
+<a href="/critics/jason-concepcion">Jason Concepcion</a>
+</li>
+<li>
+<a href="/critics/jodi-walker">Jodi Walker</a>
+</li>
+<li>
+<a href="/critics/john-gonzalez">John Gonzalez</a>
+</li>
+<li>
+<a href="/critics/jomi-adeniran">Jomi Adeniran</a>
+</li>
+<li>
+<a href="/critics/jourdain-searles">Jourdain Searles</a>
+</li>
+<li>
+<a href="/critics/justin-charity">Justin Charity</a>
+</li>
+<li>
+<a href="/critics/justin-sayles">Justin Sayles</a>
+</li>
+<li>
+<a href="/critics/kai-grady">Kai Grady</a>
+</li>
+<li>
+<a href="/critics/kate-halliwell">Kate Halliwell</a>
+</li>
+<li>
+<a href="/critics/kate-knibbs">Kate Knibbs</a>
+</li>
+<li>
+<a href="/critics/k-austin-collins">K. Austin Collins</a>
+</li>
+<li>
+<a href="/critics/keith-phipps">Keith Phipps</a>
+</li>
+<li>
+<a href="/critics/khal-davenport">Khal Davenport</a>
+</li>
+<li>
+<a href="/critics/kyle-wilson">Kyle Wilson</a>
+</li>
+<li>
+<a href="/critics/lani-renaldo">Lani Renaldo</a>
+</li>
+<li>
+<a href="/critics/lex-pryor">Lex Pryor</a>
+</li>
+<li>
+<a href="/critics/lindsay-zoladz">Lindsay Zoladz</a>
+</li>
+<li>
+<a href="/critics/mallory-rubin">Mallory Rubin</a>
+</li>
+<li>
+<a href="/critics/manuela-lazic">Manuela Lazic</a>
+</li>
+<li>
+<a href="/critics/mark-titus">Mark Titus</a>
+</li>
+<li>
+<a href="/critics/matt-borcas">Matt Borcas</a>
+</li>
+<li>
+<a href="/critics/megan-schuster">Megan Schuster</a>
+</li>
+<li>
+<a href="/critics/micah-peters">Micah Peters</a>
+</li>
+<li>
+<a href="/critics/miles-surrey">Miles Surrey</a>
+</li>
+<li>
+<a href="/critics/paolo-uggetti">Paolo Uggetti</a>
+</li>
+<li>
+<a href="/critics/paul-thompson">Paul Thompson</a>
+</li>
+<li>
+<a href="/critics/riley-mcatee">Riley McAtee</a>
+</li>
+<li>
+<a href="/critics/rob-harvilla">Rob Harvilla</a>
+</li>
+<li>
+<a href="/critics/rodger-sherman">Rodger Sherman</a>
+</li>
+<li>
+<a href="/critics/ryan-hunn">Ryan Hunn</a>
+</li>
+<li>
+<a href="/critics/sam-donsky">Sam Donsky</a>
+</li>
+<li>
+<a href="/critics/sam-schube">Sam Schube</a>
+</li>
+<li>
+<a href="/critics/sean-fennessey">Sean Fennessey</a>
+</li>
+<li>
+<a href="/critics/shaker-samman">Shaker Samman</a>
+</li>
+<li>
+<a href="/critics/shea-serrano">Shea Serrano</a>
+</li>
+<li>
+<a href="/critics/zach-kram">Zach Kram</a>
+</li>
+</ul>
+</section>
+</aside>
+</div>
+</div>
+</main>
+<ad-unit hidden="" unitdisplay="desktop" unittype="bottombanner">
+<div class="sleaderboard_wrapper" slot="adInject"></div>
+</ad-unit>
+<news-letter-manager></news-letter-manager>
+<footer class="footer container">
+<div class="footer__content-desktop-block" data-qa="footer:section">
+<div class="footer__content-group">
+<ul class="footer__links-list">
+<li class="footer__links-list-item">
+<a data-qa="footer:link-helpdesk" href="/help_desk">Help</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-about" href="/about">About Rotten Tomatoes</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-whats-tmeter" href="/about#whatisthetomatometer">What's the Tomatometer<sup>®</sup>?</a>
+</li>
+<li class="footer__links-list-item" data-qa="footer-feedback-desktop" id="footer-feedback">
+</li>
+</ul>
+</div>
+<div class="footer__content-group">
+<ul class="footer__links-list">
+<li class="footer__links-list-item">
+<a data-qa="footer:link-critic-submission" href="/critics/criteria">Critic Submission</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-licensing" href="/help_desk/licensing">Licensing</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-ads" href="https://together.nbcuni.com/advertise/?utm_source=rotten_tomatoes&amp;utm_medium=referral&amp;utm_campaign=property_ad_pages&amp;utm_content=footer" rel="noopener" target="_blank">Advertise With Us</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-careers" href="//www.fandango.com/careers" rel="noopener" target="_blank">Careers</a>
+</li>
+</ul>
+</div>
+<div class="footer__content-group footer__newsletter-block">
+<p class="h3 footer__content-group-title"><span class="rt-icon rt-icon__mail footer__newsletter-icon"></span>Join The Newsletter</p>
+<p class="footer__newsletter-copy">Get the freshest reviews, news, and more delivered right to your inbox!</p>
+<rt-button data-newslettermanager="btnNewsLetter:click" data-qa="footer-newsletter-desktop">
+                Join The Newsletter
+            </rt-button>
+<a class="button footer__newsletter-btn hide" data-newslettermanager="linkNewsLetter" rel="noopener" target="_blank">
+                Join The Newsletter
+            </a>
+</div>
+<div class="footer__content-group footer__social-block" data-qa="footer:social">
+<p class="h3 footer__content-group-title">Follow Us</p>
+<social-media-icons size="20" theme="light"></social-media-icons>
+</div>
+</div>
+<div class="footer__content-mobile-block" data-qa="mfooter:section">
+<div class="footer__content-group">
+<p class="footer__copyright-legal" data-qa="mfooter:copyright">Copyright © Fandango. All rights reserved.</p>
+<rt-button data-newslettermanager="btnNewsLetter:click" data-qa="footer-newsletter-mobile">Join The Newsletter</rt-button>
+<a class="button footer__newsletter-btn hide" data-newslettermanager="linkNewsLetter" rel="noopener" target="_blank">Join The Newsletter</a>
+<ul class="footer__links-list list-inline">
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-privacy-policy" href="//www.fandango.com/policies/privacy-policy" rel="noopener" target="_blank">
+                        Privacy Policy
+                    </a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-terms-policies" href="//www.fandango.com/policies/terms-and-policies" rel="noopener" target="_blank">Terms and Policies</a>
+</li>
+<li class="footer__links-list-item">
+<img alt="CCPA icon" class="footer__ccpa-icon" loading="lazy" src="https://images.fandango.com/cms/assets/266533e0-7afb-11ed-83f2-4f600722b564--privacyoptions.svg"/>
+<!-- OneTrust Cookies Settings button start -->
+<a class="ot-sdk-show-settings mobile" data-qa="footer-cookie-settings-mobile" href="javascript:void(0)" id="ot-sdk-btn">Cookie Settings</a>
+<!-- OneTrust Cookies Settings button end -->
+</li>
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-california-notice" href="//www.fandango.com/californianotice" rel="noopener" target="_blank">California Notice</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-adChoices" href="//www.fandango.com/policies/cookies-and-tracking#cookie_management" rel="noopener" target="_blank">Ad Choices</a>
+</li>
+<li class="footer__links-list-item" data-qa="footer-feedback-mobile" id="footer-feedback-mobile">
+</li>
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-accessibility" href="/faq#accessibility">Accessibility</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="footer__copyright">
+<ul class="footer__links-list list-inline list-inline--separator" data-qa="footer:links-list-privacy">
+<li class="footer__links-list-item version" data-qa="footer:version">
+<span>V3.1</span>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-privacy-policy" href="//www.fandango.com/policies/privacy-policy" rel="noopener" target="_blank">
+                    Privacy Policy
+                </a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-terms-policies" href="//www.fandango.com/policies/terms-and-policies" rel="noopener" target="_blank">Terms and Policies</a>
+</li>
+<li class="footer__links-list-item">
+<img alt="CCPA icon" class="footer__ccpa-icon" loading="lazy" src="https://images.fandango.com/cms/assets/266533e0-7afb-11ed-83f2-4f600722b564--privacyoptions.svg"/>
+<!-- OneTrust Cookies Settings button start -->
+<a class="ot-sdk-show-settings" data-qa="footer-cookie-settings-desktop" href="javascript:void(0)" id="ot-sdk-btn">Cookie Settings</a>
+<!-- OneTrust Cookies Settings button end -->
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-california-notice" href="//www.fandango.com/californianotice" rel="noopener" target="_blank">California Notice</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-adChoices" href="//www.fandango.com/policies/cookies-and-tracking#cookie_management" rel="noopener" target="_blank">Ad Choices</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-accessibility" href="/faq#accessibility">Accessibility</a>
+</li>
+</ul>
+<span class="footer__copyright-legal" data-qa="footer:copyright">Copyright © Fandango. All rights reserved.</span>
+</div>
+</footer>
+</div>
+<script type="text/javascript">
+(function (root) {
+/* -- Data -- */
+root.RottenTomatoes || (root.RottenTomatoes = {});
+root.RottenTomatoes.context = {"_routes":{"baseCanonicalUrl":{"path":"https:\u002F\u002Fwww.rottentomatoes.com","tokens":[{"literal":"https:\u002F\u002Fwww.rottentomatoes.com"}]},"webCriticSourceReviewsNapi":{"path":"\u002Fnapi\u002Fcritics\u002Fsource\u002F:publicationId\u002F:type(movies|tv)","tokens":[{"literal":"\u002Fnapi\u002Fcritics\u002Fsource\u002F"},{"key":"publicationId"},{"literal":"\u002F"},{"key":"type"}]},"webMovieReviewsNapi":{"path":"\u002Fnapi\u002Fmovie\u002F:emsId\u002Freviews\u002F:type(user|verified_audience|all|top_critics)","tokens":[{"literal":"\u002Fnapi\u002Fmovie\u002F"},{"key":"emsId"},{"literal":"\u002Freviews\u002F"},{"key":"type"}]},"commonTrackingFreewheelPixelSyncNapi":{"path":"\u002Fnapi\u002Ftracking\u002Ffreewheel\u002Fpixelsync","tokens":[{"literal":"\u002Fnapi\u002Ftracking\u002Ffreewheel\u002Fpixelsync"}]},"webEpisodeReviewsNapi":{"path":"\u002Fnapi\u002Fepisode\u002F:emsId\u002Freviews\u002F:type(all|top_critics)","tokens":[{"literal":"\u002Fnapi\u002Fepisode\u002F"},{"key":"emsId"},{"literal":"\u002Freviews\u002F"},{"key":"type"}]},"webSeasonReviewsNapi":{"path":"\u002Fnapi\u002Fseason\u002F:emsId\u002Freviews\u002F:type(user|all|top_critics)","tokens":[{"literal":"\u002Fnapi\u002Fseason\u002F"},{"key":"emsId"},{"literal":"\u002Freviews\u002F"},{"key":"type"}]},"webTvSeasonGetEpisodesNapi":{"path":"\u002Fnapi\u002Ftv\u002F:vanity\u002F:tvSeason\u002Fepisodes","tokens":[{"literal":"\u002Fnapi\u002Ftv\u002F"},{"key":"vanity"},{"literal":"\u002F"},{"key":"tvSeason"},{"literal":"\u002Fepisodes"}]},"commonUserWTSCreateNapi":{"path":"\u002Fnapi\u002Fuser\u002Fwts","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Fwts"}]},"commonUserWTSDeleteNapi":{"path":"\u002Fnapi\u002Fuser\u002Fwts\u002Fdelete","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Fwts\u002Fdelete"}]},"commonUserRatingCreateNapi":{"path":"\u002Fnapi\u002Fuser\u002Frating","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Frating"}]},"commonUserGetWTSNapi":{"path":"\u002Fnapi\u002Fuser\u002Fwts","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Fwts"}]},"commonUserGetRatingNapi":{"path":"\u002Fnapi\u002Fuser\u002Frating","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Frating"}]},"resetClient":{"path":"\u002Freset-client","tokens":[{"literal":"\u002Freset-client"}]},"userAccount":{"path":"\u002Fuser\u002Faccount","tokens":[{"literal":"\u002Fuser\u002Faccount"}]},"webCritic":{"path":"\u002Fcritics\u002F:vanity\u002F:type(movies|tv)","tokens":[{"literal":"\u002Fcritics\u002F"},{"key":"vanity"},{"literal":"\u002F"},{"key":"type"}]},"webCriticLanding":{"path":"\u002Fcritics\u002F:vanity","tokens":[{"literal":"\u002Fcritics\u002F"},{"key":"vanity"}]},"webSearchResults":{"path":"\u002Fsearch\u002F","tokens":[{"literal":"\u002Fsearch\u002F"}]},"webCriticSource":{"path":"\u002Fcritics\u002Fsource\u002F:publicationId","tokens":[{"literal":"\u002Fcritics\u002Fsource\u002F"},{"key":"publicationId"}]}}};
+root.RottenTomatoes.context || (root.RottenTomatoes.context = {});
+root.RottenTomatoes.context.layout = {"header":{"editorial":{"guides":{"posts":[{"ID":106334,"author":{"ID":7,"username":"RT Staff","name":"RT Staff","first_name":"RT","last_name":"Staff","nickname":"RT Staff","slug":"rt-staff","URL":"http:\u002F\u002Fwww.rottentomatoes.com","avatar":"https:\u002F\u002Fsecure.gravatar.com\u002Favatar\u002F1da0327e91516c500afa31e67da2395a?s=96","description":"Rotten Tomatoes every day.","registered":"2015-05-01T22:36:17+00:00","meta":{"links":{"self":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F7","archives":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F7\u002Fposts"}}},"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2023\u002F06\u002F17094054\u002F600BlueBeetle5.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fguide\u002Fbest-superhero-movies-of-all-time\u002F","status":"publish","title":"The 89 Best Superhero Movies of All Time, Ranked by Tomatometer","type":"guide"},{"ID":136505,"author":{"ID":20,"username":"jeff.giles","name":"Jeff Giles","first_name":"Jeff","last_name":"Giles","nickname":"jeff.giles","slug":"jeff-giles","URL":"","avatar":"https:\u002F\u002Fsecure.gravatar.com\u002Favatar\u002F85a0a006e61e520594eb4c2425b9aa6f?s=96","description":"","registered":"2015-05-15T19:07:23+00:00","meta":{"links":{"self":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F20","archives":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F20\u002Fposts"}}},"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2020\u002F08\u002F03112024\u002F600SchoolOfRock.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fguide\u002Fall-jack-black-movies-ranked\u002F","status":"publish","title":"All Jack Black Movies Ranked","type":"guide"}],"title":"Guides","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fcountdown\u002F"},"hubs":{"posts":[{"ID":237626,"author":{"ID":12,"username":"alex.vo","name":"Alex Vo","first_name":"Alex","last_name":"Vo","nickname":"alex.vo","slug":"alex-vo","URL":"","avatar":"https:\u002F\u002Fsecure.gravatar.com\u002Favatar\u002F818ade2039d2a711e0cd70ae46f14952?s=96","description":"","registered":"2015-05-12T20:00:23+00:00","meta":{"links":{"self":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12","archives":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12\u002Fposts"}}},"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2023\u002F05\u002F04130548\u002FRT_WTW_Generic_2023_Thumbnail_600x314_021623.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Frt-hub\u002Fwhat-to-watch\u002F","status":"publish","title":"What to Watch: In Theaters and On Streaming","type":"rt-hub"},{"ID":206375,"author":{"ID":12,"username":"alex.vo","name":"Alex Vo","first_name":"Alex","last_name":"Vo","nickname":"alex.vo","slug":"alex-vo","URL":"","avatar":"https:\u002F\u002Fsecure.gravatar.com\u002Favatar\u002F818ade2039d2a711e0cd70ae46f14952?s=96","description":"","registered":"2015-05-12T20:00:23+00:00","meta":{"links":{"self":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12","archives":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12\u002Fposts"}}},"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2022\u002F09\u002F07181530\u002FRT_HH2023_Hub_600x314_090723.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Frt-hub\u002Fhispanic-heritage\u002F","status":"publish","title":"Celebrating Hispanic Heritage","type":"rt-hub"}],"title":"Hubs","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Frt-hubs\u002F"},"news":{"posts":[{"ID":243809,"author":789,"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2023\u002F10\u002F02193854\u002FUltimateTVFang-Off_600x314.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Ffang-off-tv-vampire-bracket\u002F","promo_order":"","status":"publish","title":"The Ultimate TV Fang-Off: Vote for the Best Vampire","type":"article"},{"ID":115535,"author":813,"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2017\u002F10\u002F03160546\u002FSaw_Franchise_by_the_Numbers-Rep.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Fhow-good-are-the-saw-movies-when-a-saw-is-actually-involved\u002F","promo_order":"","status":"publish","title":"How Good Are the \u003Cem\u003ESaw\u003C\u002Fem\u003E Movies When a Saw Is Actually Involved?","type":"article"}],"title":"RT News","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fnews\u002F"}},"trendingTarsSlug":"rt-nav-trending","trending":[{"header":"New TM Scores","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Flatest-tomatometer-scores\u002F"},{"header":"Loki ","url":"https:\u002F\u002Fwww.rottentomatoes.com\u002Ftv\u002Floki\u002Fs02"},{"header":"The Creator ","url":"https:\u002F\u002Fwww.rottentomatoes.com\u002Fm\u002Fthe_creator_2023"},{"header":"Saw X","url":"https:\u002F\u002Fwww.rottentomatoes.com\u002Fm\u002Fsaw_x"},{"header":"Killers of the Flower Moon","url":"https:\u002F\u002Fwww.rottentomatoes.com\u002Fm\u002Fkillers_of_the_flower_moon"},{"header":"The Exorcist: Believer","url":"https:\u002F\u002Fwww.rottentomatoes.com\u002Fm\u002Fthe_exorcist_believer"}],"certifiedMedia":{"certifiedFreshTvSeason":{"header":null,"media":{"url":"\u002Ftv\u002Floki\u002Fs02","name":"Loki: Season 2","score":82,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002F-IX7NXuryitcje-ZBRKl298P-g0=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FGuYczQkssRiXvcjPeGy7tDMPSFk=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F_bfhe4PWPeyvX1XJe4LM_SJHG8k=\u002Fems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMTVmMDViYjktN2ZiNS00OThhLWFmNjEtOTFiZWUyZWQ3NWU0LmpwZw=="},"tarsSlug":"rt-nav-list-cf-picks"},"certifiedFreshMovieInTheater":{"header":null,"media":{"url":"\u002Fm\u002Fsaw_x","name":"Saw X","score":83,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002FNk800PQgJgPjHe5pSFK76DhPO1M=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FJerD2YiXljQannF1wK5SvwXYCsM=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F9gNjWytmWz1aNNJS2bxHv0r6dDQ=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA4MmFmMGE4LWVkNzItNDY3YS05YTU5LWI0OGQ3OWNiNWI1OS5qcGc="}},"certifiedFreshMovieInTheater4":{"header":null,"media":{"url":"\u002Fm\u002Fthe_royal_hotel","name":"The Royal Hotel","score":95,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002F5AUwa3GVk0LZ1MOmZhdvLeLH3eo=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FrlC2QNSgkOdrPfZQA4XNOIMLPqk=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FJ0Zs4cwTi9zuRqZbP97xPOogTkM=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI0ZjZhOGNlLWIzNGUtNGY1Zi1iNzEzLWJlNWI5ZTYyYzM3Zi5qcGc="}},"certifiedFreshMovieAtHome":{"header":null,"media":{"url":"\u002Fm\u002Fsitting_in_bars_with_cake","name":"Sitting in Bars with Cake","score":80,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002FG2EJxxh-2hn0jY2s4CYJyJCNhf8=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F5tTPFypwxCkQgnnmRH8DV6Y_EKc=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FyC5Zoihr7dQpeq3Yt2aYlc-MB3M=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UyYzk0YTA1LWQzNzgtNDFmOC05NmQ1LWZmNWJhY2I4ZjkwNi5qcGc="}},"tarsSlug":"rt-nav-list-cf-picks"},"tvLists":{"newTvTonight":{"tarsSlug":"rt-hp-text-list-new-tv-this-week","title":"New TV Tonight","shows":[{"title":"Loki: Season 2","tomatometer":{"tomatometer":82,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Floki\u002Fs02"},{"title":"Our Flag Means Death: Season 2","tomatometer":{"tomatometer":100,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Four_flag_means_death\u002Fs02"},{"title":"Lupin: Season 3","tomatometer":{"tomatometer":100,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Flupin\u002Fs03"},{"title":"Chucky: Season 3","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fchucky\u002Fs03"},{"title":"Found: Season 1","tomatometer":{"tomatometer":60,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Ffound\u002Fs01"},{"title":"The Spencer Sisters: Season 1","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fthe_spencer_sisters\u002Fs01"},{"title":"Sullivan's Crossing: Season 1","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fsullivans_crossing\u002Fs01"},{"title":"Transplant: Season 3","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Ftransplant\u002Fs03"},{"title":"Quantum Leap: Season 2","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fquantum_leap_2022\u002Fs02"},{"title":"The Simpsons: Season 35","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fthe_simpsons\u002Fs35"},{"title":"Bob's Burgers: Season 14","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fbobs_burgers\u002Fs14"}]},"mostPopularTvOnRt":{"tarsSlug":"rt-hp-text-list-most-popular-tv-on-rt","title":"Most Popular TV on RT","shows":[{"title":"Castlevania: Nocturne: Season 1","tomatometer":{"tomatometer":100,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fcastlevania_nocturne\u002Fs01"},{"title":"Gen V: Season 1","tomatometer":{"tomatometer":95,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Fgen_v\u002Fs01"},{"title":"Sex Education: Season 4","tomatometer":{"tomatometer":90,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Fsex_education\u002Fs04"},{"title":"The Fall of the House of Usher: Season 1","tomatometer":{"tomatometer":95,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Fthe_fall_of_the_house_of_usher\u002Fs01"},{"title":"Dear Child: Season 1","tomatometer":{"tomatometer":100,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fdear_child\u002Fs01"},{"title":"The Continental: From the World of John Wick: Season 1","tomatometer":{"tomatometer":64,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fthe_continental\u002Fs01"},{"title":"Star Wars: Ahsoka: Season 1","tomatometer":{"tomatometer":88,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Fstar_wars_ahsoka\u002Fs01"},{"title":"Loki: Season 2","tomatometer":{"tomatometer":82,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Floki\u002Fs02"},{"title":"One Piece: Season 1","tomatometer":{"tomatometer":85,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Fone_piece_2023\u002Fs01"}]}},"legacyItems":{"tarsSlug":"rt-nav-list-tv-episodic-reviews","tv":{"mediaLists":[{},{},{},{"title":"Episodic Reviews","shows":[{"link":"\u002Ftv\u002Fyellowjackets\u002Fs02","showTitle":"Yellowjackets: Season 2"},{"link":"\u002Ftv\u002Fsuccession\u002Fs04","showTitle":"Succession: Season 4"},{"link":"\u002Ftv\u002Fbeef\u002Fs01","showTitle":"Beef: Season 1"},{"link":"\u002Ftv\u002Fthe_mandalorian\u002Fs03","showTitle":"The Mandalorian: Season 3"},{"link":"\u002Ftv\u002Frabbit_hole\u002Fs01","showTitle":"Rabbit Hole: Season 1"}]}]}}},"links":{"moviesInTheaters":{"certifiedFresh":"\u002Fbrowse\u002Fmovies_in_theaters\u002Fcritics:certified_fresh~sort:popular","comingSoon":"\u002Fbrowse\u002Fmovies_coming_soon\u002F","openingThisWeek":"\u002Fbrowse\u002Fmovies_in_theaters\u002Fsort:newest","title":"\u002Fbrowse\u002Fmovies_in_theaters","topBoxOffice":"\u002Fbrowse\u002Fmovies_in_theaters"},"onDvdAndStreaming":{"all":"\u002Fbrowse\u002Fmovies_at_home\u002F","certifiedFresh":"\u002Fbrowse\u002Fmovies_at_home\u002Fcritics:certified_fresh","title":"\u002Fbrowse\u002Fmovies_at_home\u002F","top":"\u002Fbrowse\u002Fmovies_at_home\u002Fsort:popular"},"moreMovies":{"topMovies":"\u002Fbrowse\u002Fmovies_at_home\u002Fsort:popular","trailers":"\u002Ftrailers"},"tvTonight":"\u002Fbrowse\u002Ftv_series_browse\u002Fsort:newest","tvPopular":"\u002Fbrowse\u002Ftv_series_browse\u002Fsort:popular","moreTv":{"topTv":"\u002Fbrowse\u002Ftv_series_browse\u002Fsort:popular","certifiedFresh":"\u002Fbrowse\u002Ftv_series_browse\u002Fcritics:fresh"},"editorial":{"allTimeLists":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fall-time-lists\u002F","bingeGuide":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fbinge-guide\u002F","comicsOnTv":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fcomics-on-tv\u002F","countdown":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fcountdown\u002F","fiveFavoriteFilms":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Ffive-favorite-films\u002F","videoInterviews":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fvideo-interviews\u002F","weekendBoxOffice":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fweekend-box-office\u002F","weeklyKetchup":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fweekly-ketchup\u002F","whatToWatch":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwhat-to-watch\u002F"}}};
+root.BK = {"PageName":"http:\u002F\u002Fwww.rottentomatoes.com\u002Fcritics\u002Fsource\u002F2834","SiteID":37528,"SiteSection":""};
+root.RottenTomatoes.thirdParty = {"chartBeat":{"auth":"64558","domain":"rottentomatoes.com"},"mpx":{"accountPid":"NGweTC","playerPid":"y__7B0iQTi4P","playerPidPDK6":"pdk6_y__7B0iQTi4P","accountId":"2474312077"},"algoliaSearch":{"aId":"79FRDP12PN","sId":"175588f6e5f8319b27702e4cc4013561"},"cognito":{"upId":"us-west-2_4L0ZX4b1U","clientId":"7pu48v8i2n25t4vhes0edck31c"}};
+root.RottenTomatoes.serviceWorker = {"isServiceWokerOn":true};
+root.__RT__ || (root.__RT__ = {});
+root.__RT__.featureFlags = {"adsCarouselHP":false,"adsCarouselHPSlug":"rt-sponsored-carousel-list-hulu-23","adsCarouselOP":false,"adsCarouselOPSlug":"rt-sponsored-carousel-list-hulu-23","adsHub":false,"adsMockDLP":false,"adsVideoSpotlightHP":false,"authVerboseLogs":false,"cssRefactor":true,"franchisePicturesOptimized":false,"layoutsUserProfilePage":false,"legacyBridge":true,"logoRT25":true,"newEmailPref":false,"redesignGlobalStyles":false,"redesignTvEpisode":false,"useUpdatedOneTrust":false};
+root.RottenTomatoes.dtmData = {"webVersion":"node","rtVersion":3.1,"loggedInStatus":"","customerId":""};
+root.RottenTomatoes.context.adsMockDLP = false;
+root.RottenTomatoes.context.req = {"params":{"publicationId":"2834"},"queries":{},"route":{},"url":"\u002Fcritics\u002Fsource\u002F2834","secure":false,"buildVersion":undefined};
+root.RottenTomatoes.context.config = {};
+root.RottenTomatoes.context.gptSite = "critics";
+}(this));
+</script>
+<!--[if IE]>
+        <script src="/assets/pizza-pie/javascripts/roma/common/polyfills.js"></script>
+        <![endif]-->
+<script src="/assets/pizza-pie/javascripts/bundles/roma/vendors.37d2b700cb6.js"></script>
+<script src="/assets/pizza-pie/javascripts/bundles/roma/default.445df550168.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="/assets/pizza-pie/javascripts/bundles/roma/search-algolia.df57657fd01.js"></script>
+<script src="/assets/pizza-pie/javascripts/templates/criticsSource.8024b36554c.js"></script>
+<script src="/assets/pizza-pie/javascripts/bundles/roma/pages/critics/source.b2ddfaa5bc0.js"></script>
+<script>
+                if (window.mps && typeof window.mps.writeFooter === 'function') {
+                    window.mps.writeFooter();
+                }
+            </script>
+<script>
+                window._satellite && _satellite.pageBottom();
+            </script>
+</body>
+</html>
+
+
