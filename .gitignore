@@ -1,2 +1,5 @@
 .DS_Store
 output/
+.bash_profile
+.ipynb_checkpoints/
+.nfs00000009cc0e439600000023
